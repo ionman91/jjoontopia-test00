@@ -137,3 +137,8 @@ frontend/
 .ebextensions/*
 .ebextensions/
 .platform/*
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
