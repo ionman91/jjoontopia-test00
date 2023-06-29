@@ -20,7 +20,7 @@ def start_app():
     env = get_env()
     db.init_db(app=app, **env.dict())
 
-    origins = 
+    origins = env.ORIGINS
 
     app.add_middleware(
         CORSMiddleware,
