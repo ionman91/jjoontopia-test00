@@ -186,7 +186,7 @@ class MFLTeam(Base):
 
 
 class TestTable(Base):
-    __tablename__ = "test_table"
+    __tablename__ = "testtable"
     user_id = Column(Integer, nullable=False, unique=True)
     title = Column(String, nullable=False)
     hello = Column(JSON, nullable=True)

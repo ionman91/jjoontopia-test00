@@ -78,6 +78,7 @@ class Recommend(Base):
 
 class Comment(Base):
     __tablename__ = "comment"
+    id = Column(BIGINT, primary_key=True, index=True) # remote_side=[id] 는 class 내에 id 칼럼이 존재해야 하기 때문에 id 가 따로 존재 해야 함
     content = Column(Text, nullable=False)
     post_id = Column(ForeignKey("post.id", ondelete="CASCADE"), nullable=False)
     user_id = Column(ForeignKey("users.id"), nullable=False)

@@ -264,17 +264,19 @@ async def make_match_prediction_dict_api(now_date: str, session: Session = Depen
 """
 @test.get("/asdasdasdasdasd")
 async def get_fantasy_weekqergqergqergly_schedule(session: Session = Depends(db.session)):
-    from app.models.fantasy import TestTable
-    sess_mlb_teams = session.query(TestTable)
-    for index in range(7):
-        index = 9
-        test = sess_mlb_teams.filter_by(id=index).first() is not None
-        if not test:
-            u = TestTable(
-                user_id=13, title="안녕하세요", hello=json.dumps({"0606":"hello"})
-            )
-            session.add(u)
-            session.commit()
+    # import os 
+    # from app.models.fantasy import TestTable
+
+    # sess_mlb_teams = session.query(TestTable)
+    # for index in range(7):
+    #     index = 10
+    #     test = sess_mlb_teams.filter_by(id=index).first() is not None
+    #     if not test:
+    #         u = TestTable(
+    #             user_id=13, title="안녕하세요", hello=json.dumps({"0606":"hello"})
+    #         )
+    #         session.add(u)
+    #         session.commit()
     # teams = session.query(MLBTeam).all()
     # for team in teams:
     #     players = session.query(MLBPlayer).filter_by(team_id=team.id, is_roster=True).all()

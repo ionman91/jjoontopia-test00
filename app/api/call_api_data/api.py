@@ -42,9 +42,11 @@ async def get_fantasy_team_list_api(request: Request, session: Session = Depends
     mflteams_list = []
     response = mlb_team_list()
     teams = response["body"]
-    
+
+    sess_team_exists = session.query(MLBTeam)
+    print(sess_team_exists)
     for team in teams:
-        team_exists = session.query(MLBTeam).filter_by(team_name=team["teamName"], short_name=team["teamAbv"], teamid=team["teamID"]).scalar() is not None
+        team_exists = sess_team_exists.filter_by(team_name=team["teamName"], short_name=team["teamAbv"], teamid=team["teamID"]).scalar() is not None
         if not team_exists:
             mlbteam = MLBTeam(
                 team_name=team["teamName"], city_name=team["teamCity"], 
@@ -59,7 +61,7 @@ async def get_fantasy_team_list_api(request: Request, session: Session = Depends
             }
             mflteams_list.append(mflteam)
         else:
-            mlbteam = session.query(MLBTeam).filter_by(team_name=team["teamName"], short_name=team["teamAbv"], teamid=team["teamID"]).first()
+            mlbteam = sess_team_exists.filter_by(team_name=team["teamName"], short_name=team["teamAbv"], teamid=team["teamID"]).first()
             
             exists_mfl_team = session.query(MFLTeam).filter(MFLTeam.season==get_env().NOW_SEASON, MFLTeam.mlbteam.has(id=mlbteam.id, teamid=team["teamID"])).scalar()
             if not exists_mfl_team:
