@@ -28,9 +28,9 @@ class Settings(BaseSettings):
 
     RAPID_MLB_BASIC_URL = "https://tank01-mlb-live-in-game-real-time-statistics.p.rapidapi.com/"
     RAPID_MLB_AUTH_NAME = "jjoontopia_mlb"
-    RAPID_MLB_API_KEY = "75c005dfeamsh89423cd28293c0ep1331c3jsn162b10ffc369"
+    
     RAPID_MLB_HEADERS = {
-        "X-RapidAPI-Key": RAPID_MLB_API_KEY,
+        "X-RapidAPI-Key": "RAPID_MLB_API_KEY",
         "X-RapidAPI-Host": "tank01-mlb-live-in-game-real-time-statistics.p.rapidapi.com"
     }
     BASEBALL_SCORE_SETTING = {
