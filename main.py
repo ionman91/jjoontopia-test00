@@ -20,7 +20,7 @@ def start_app():
     env = get_env()
     db.init_db(app=app, **env.dict())
 
-    origins = ["http://127.0.0.1:5173"]
+    origins = 
 
     app.add_middleware(
         CORSMiddleware,

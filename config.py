@@ -28,9 +28,10 @@ class Settings(BaseSettings):
 
     RAPID_MLB_BASIC_URL = "https://tank01-mlb-live-in-game-real-time-statistics.p.rapidapi.com/"
     RAPID_MLB_AUTH_NAME = "jjoontopia_mlb"
+    RAPID_MLB_API_KEY = os.getenv("RAPID_MLB_API_KEY")
     
     RAPID_MLB_HEADERS = {
-        "X-RapidAPI-Key": "RAPID_MLB_API_KEY",
+        "X-RapidAPI-Key": RAPID_MLB_API_KEY,
         "X-RapidAPI-Host": "tank01-mlb-live-in-game-real-time-statistics.p.rapidapi.com"
     }
     BASEBALL_SCORE_SETTING = {
@@ -83,11 +84,20 @@ class DevSettings(Settings):
     DB_URL = "mysql+pymysql://root:1234@localhost:3306/test2?charset=utf8mb4"
     DB_POOL_SIZE = 5
     DB_MAX_OVERFLOW = 10
+    ORIGINS = ["http://127.0.0.1:5173"]
+
+
+class ProdSettings(Settings):
+    DB_URL = f"mysql+pymysql://{os.getenv('DB_URL')}/fltest?charset=utf8mb4"
+    DB_POOL_SIZE = 5
+    DB_MAX_OVERFLOW = 10
+    ORIGINS = ["test002.ap-northeast-2.elasticbeanstalk.com"]
 
 
 def get_env():
     cfg_cls = dict(
         dev=DevSettings,
+        prod=ProdSettings,
     )
     env = cfg_cls[os.getenv("FASTAPI_ENV", "dev")]()
 
