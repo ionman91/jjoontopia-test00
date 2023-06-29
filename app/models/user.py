@@ -213,7 +213,6 @@ class APIKeys(Base):
         return get_api_key
 
 
-
 class APIKeysWhitelist(Base):
     __tablename__ = "users_api_keys_whitelist"
     api_key_id = Column(ForeignKey("users_api_keys.id"), nullable=False)

@@ -1,4 +1,4 @@
-from sqlalchemy import Column, ForeignKey, Integer, JSON, String, Float, Boolean
+from sqlalchemy import Column, ForeignKey, Integer, JSON, String, Boolean, DECIMAL
 from app.models.base import Base
 from sqlalchemy.orm import relationship
 from config import get_env
@@ -9,15 +9,15 @@ import json
 
 
 class MLBPlayer(Base):
-    __tablename__ = "mlbplayer"
-    team_id = Column(ForeignKey("mlbteam.id"), nullable=True)
-    kname = Column(String, nullable=True)
-    ename = Column(String, nullable=False)
-    playerid = Column(String, nullable=False, unique=True)
-    mlbid = Column(String, nullable=False)
-    bday = Column(String, nullable=False)
-    jersey_num = Column(String, nullable=False)
-    position = Column(String, nullable=False)
+    __tablename__ = "mlb_players"
+    team_id = Column(ForeignKey("mlb_team.id"), nullable=True)
+    kname = Column(String(10), nullable=True)
+    ename = Column(String(50), nullable=False)
+    playerid = Column(String(8), nullable=False, unique=True)
+    mlbid = Column(String(8), nullable=False)
+    bday = Column(String(10), nullable=False)
+    jersey_num = Column(String(3), nullable=False)
+    position = Column(String(3), nullable=False)
     is_roster = Column(Boolean, nullable=False, default=False)
 
     mflplayer = relationship("MFLPlayer", back_populates="mlbplayer", cascade="all, delete")
@@ -25,17 +25,17 @@ class MLBPlayer(Base):
     
 
 class MFLPlayer(Base):
-    __tablename__ = "mflplayer"
-    player_id = Column(ForeignKey("mlbplayer.id"), nullable=False)
-    playerid = Column(String, nullable=False)
-    season = Column(String, nullable=False, default=get_env().NOW_SEASON)
+    __tablename__ = "mlb_fantasy_league_players"
+    player_id = Column(ForeignKey("mlb_players.id"), nullable=False)
+    playerid = Column(String(10), nullable=False)
+    season = Column(String(4), nullable=False, default=get_env().NOW_SEASON)
 
-    daily_score = Column(Float, nullable=False, default=0)
-    weekly_score = Column(Float, nullable=False, default=0)
-    monthly_score = Column(Float, nullable=False, default=0)
-    total_score = Column(Float, nullable=False, default=0)
-    difference_score_this_week = Column(Float, nullable=False, default=0)
-    average_score = Column(Float, nullable=False, default=0)
+    daily_score = Column(DECIMAL(3,1), nullable=False, default=0.0)
+    weekly_score = Column(DECIMAL(4,1), nullable=False, default=0.0)
+    monthly_score = Column(DECIMAL(5,1), nullable=False, default=0.0)
+    total_score = Column(DECIMAL(5,1), nullable=False, default=0.0)
+    difference_score_this_week = Column(DECIMAL(4,1), nullable=False, default=0.0)
+    average_score = Column(DECIMAL(4,1), nullable=False, default=0.0)
 
     total_games = Column(Integer, nullable=False, default=0)
     selected_by_user = Column(Integer, nullable=False, default=0)
@@ -157,16 +157,16 @@ class MFLPlayer(Base):
 
 
 class MLBTeam(Base):
-    __tablename__ = "mlbteam"
-    kname = Column(String, nullable=True)
-    team_name = Column(String, nullable=False)
-    city_name = Column(String, nullable=False)
-    short_name = Column(String, nullable=False, unique=True)
-    division = Column(String, nullable=False)
-    conference = Column(String, nullable=False)
-    teamid = Column(String, nullable=False)
-    kstadium = Column(String, nullable=True)
-    estadium = Column(String, nullable=True)
+    __tablename__ = "mlb_team"
+    kname = Column(String(10), nullable=True)
+    team_name = Column(String(20), nullable=False)
+    city_name = Column(String(20), nullable=False)
+    short_name = Column(String(5), nullable=False, unique=True)
+    division = Column(String(8), nullable=False)
+    conference = Column(String(2), nullable=False)
+    teamid = Column(String(10), nullable=False)
+    kstadium = Column(String(10), nullable=True)
+    estadium = Column(String(20), nullable=True)
 
     roster = relationship("MLBPlayer", back_populates="mlbteam")
     mflteam = relationship("MFLTeam", back_populates="mlbteam", cascade="all, delete")
@@ -175,21 +175,21 @@ class MLBTeam(Base):
 
 
 class MFLTeam(Base):
-    __tablename__ = "mflteam"
-    team_id = Column(ForeignKey("mlbteam.id"), nullable=False)
-    short_name = Column(String, nullable=False)
-    season = Column(String, nullable=False, default=get_env().NOW_SEASON)
-    team_betting = Column(JSON, nullable=True)
+    __tablename__ = "mlb_fantasy_league_team"
+    team_id = Column(ForeignKey("mlb_team.id"), nullable=False)
+    short_name = Column(String(3), nullable=False)
+    season = Column(String(4), nullable=False, default=get_env().NOW_SEASON)
+    team_batting = Column(JSON, nullable=True)
     team_pitching = Column(JSON, nullable=True)
 
     mlbteam = relationship("MLBTeam", back_populates="mflteam", uselist=False)
 
 
 class TestTable(Base):
-    __tablename__ = "testtable"
+    __tablename__ = "test_table"
     user_id = Column(Integer, nullable=False, unique=True)
     title = Column(String, nullable=False)
-    hello = Column(JSON, nullable=False)
+    hello = Column(JSON, nullable=True)
 
     def score(self, str):
         self.title = str

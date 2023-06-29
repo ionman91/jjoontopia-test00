@@ -5,8 +5,8 @@ from app.models.base import Base
 
 class MLBMatchSchedule(Base):
     __tablename__ = "mlb_match_schedule"
-    home_id = Column(ForeignKey("mlbteam.id"), nullable=False)
-    away_id = Column(ForeignKey("mlbteam.id"), nullable=False)
+    home_id = Column(ForeignKey("mlb_team.id"), nullable=False)
+    away_id = Column(ForeignKey("mlb_team.id"), nullable=False)
     gameid = Column(String(32), nullable=False, unique=True)
     game_date = Column(String(8), nullable=False)
     game_time = Column(String(6), nullable=False)

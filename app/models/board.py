@@ -78,7 +78,6 @@ class Recommend(Base):
 
 class Comment(Base):
     __tablename__ = "comment"
-    id = Column(BIGINT, primary_key=True, index=True)
     content = Column(Text, nullable=False)
     post_id = Column(ForeignKey("post.id", ondelete="CASCADE"), nullable=False)
     user_id = Column(ForeignKey("users.id"), nullable=False)
