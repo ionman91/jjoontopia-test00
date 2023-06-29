@@ -1,0 +1,1473 @@
+{
+    "statusCode": 200,
+    "body": {
+      "GameLength": "2:46",
+      "Umpires": "HP: Chad Whitson. 1B: Rob Drake. 2B: Bill Miller. 3B: Roberto Ortiz.",
+      "playerStats": {
+        "518934": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "4",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".716",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".250"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "NYY",
+          "startingPosition": "3B",
+          "playerID": "518934"
+        },
+        "519203": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "1B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "3",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".891",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "0",
+            "LOB": ".305"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "NYY",
+          "startingPosition": "1B",
+          "playerID": "519203"
+        },
+        "543309": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "0",
+            "battingOrder": "9",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "2",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".591",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".181"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "NYY",
+          "playerID": "543309"
+        },
+        "543592": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "9",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".447",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".135"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SD",
+          "startingPosition": "C",
+          "playerID": "543592"
+        },
+        "543901": {
+          "gameID": "20230526_SD@NYY",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "4",
+            "HR": "0",
+            "ER": "1",
+            "Strikes": "30",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "3",
+            "R": "1",
+            "pitchingOrder": "3",
+            "ERA": "3.48",
+            "InningsPitched": "3.0",
+            "Batters Faced": "13",
+            "SO": "3",
+            "Pitches": "50"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "NYY",
+          "playerID": "543901"
+        },
+        "572761": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "DH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "6",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".663",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "3",
+            "LOB": ".179"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SD",
+          "startingPosition": "DH",
+          "playerID": "572761"
+        },
+        "592450": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "2",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "0",
+            "AVG": "1.026",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "3",
+            "LOB": ".287"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "NYY",
+          "startingPosition": "RF",
+          "playerID": "592450"
+        },
+        "593428": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "4",
+            "battingOrder": "4",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".760",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".259"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "1",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SD",
+          "startingPosition": "SS",
+          "playerID": "593428"
+        },
+        "596059": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "4",
+            "battingOrder": "5",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".726",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "1",
+            "LOB": ".222"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "1",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SD",
+          "startingPosition": "3B",
+          "playerID": "596059"
+        },
+        "605397": {
+          "gameID": "20230526_SD@NYY",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "W",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "6",
+            "HR": "0",
+            "ER": "1",
+            "Strikes": "61",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "6",
+            "R": "1",
+            "pitchingOrder": "1",
+            "ERA": "5.64",
+            "InningsPitched": "6.1",
+            "Batters Faced": "25",
+            "SO": "6",
+            "Pitches": "88"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SD",
+          "playerID": "605397"
+        },
+        "621051": {
+          "gameID": "20230526_SD@NYY",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "H",
+            "Flyouts": "0",
+            "Inherited Runners": "2",
+            "H": "1",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "17",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "1",
+            "R": "0",
+            "pitchingOrder": "2",
+            "ERA": "2.96",
+            "InningsPitched": "1.2",
+            "Batters Faced": "6",
+            "SO": "2",
+            "Pitches": "22"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "SD",
+          "playerID": "621051"
+        },
+        "623352": {
+          "gameID": "20230526_SD@NYY",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "H": "0",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "11",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "0",
+            "R": "0",
+            "pitchingOrder": "3",
+            "ERA": "0.82",
+            "InningsPitched": "1.0",
+            "Batters Faced": "3",
+            "SO": "3",
+            "Pitches": "15"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "SD",
+          "playerID": "623352"
+        },
+        "630105": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "2",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".717",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "1",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".213"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SD",
+          "startingPosition": "2B",
+          "playerID": "630105"
+        },
+        "641343": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "PH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "note": "Popped out for Rortvedt in the 7th.",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "1",
+            "battingOrder": "9",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".604",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".174"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "NYY",
+          "playerID": "641343"
+        },
+        "641432": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "DH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "6",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".681",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".230"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "NYY",
+          "startingPosition": "DH",
+          "playerID": "641432"
+        },
+        "641525": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "1B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "2",
+            "battingOrder": "7",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".790",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "2",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".269"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "1",
+            "PO": "1"
+          },
+          "started": "True",
+          "team": "SD",
+          "startingPosition": "1B",
+          "playerID": "641525"
+        },
+        "643396": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "3",
+            "battingOrder": "8",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".615",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".204"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "NYY",
+          "startingPosition": "LF",
+          "playerID": "643396"
+        },
+        "650402": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "1",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".805",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".263"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "NYY",
+          "startingPosition": "2B",
+          "playerID": "650402"
+        },
+        "663757": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "8",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".664",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".189"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SD",
+          "startingPosition": "CF",
+          "playerID": "663757"
+        },
+        "664056": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "5",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".770",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".250"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "NYY",
+          "startingPosition": "CF",
+          "playerID": "664056"
+        },
+        "665487": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "1",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "4",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".775",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "2",
+            "SO": "1",
+            "LOB": ".256"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SD",
+          "startingPosition": "RF",
+          "playerID": "665487"
+        },
+        "665742": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "3",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "6",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "2",
+            "AVG": ".936",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "2",
+            "SO": "1",
+            "LOB": ".266"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SD",
+          "startingPosition": "LF",
+          "playerID": "665742"
+        },
+        "666163": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "2",
+            "battingOrder": "9",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".873",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".286"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "NYY",
+          "startingPosition": "C",
+          "playerID": "666163"
+        },
+        "676760": {
+          "gameID": "20230526_SD@NYY",
+          "Pitching": {
+            "BB": "1",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "2",
+            "Inherited Runners": "2",
+            "H": "1",
+            "HR": "1",
+            "ER": "2",
+            "Strikes": "13",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "0",
+            "R": "2",
+            "pitchingOrder": "2",
+            "ERA": "4.26",
+            "InningsPitched": "1.1",
+            "Batters Faced": "6",
+            "SO": "1",
+            "Pitches": "21"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "1"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "NYY",
+          "playerID": "676760"
+        },
+        "681190": {
+          "gameID": "20230526_SD@NYY",
+          "Pitching": {
+            "BB": "3",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "L",
+            "Flyouts": "4",
+            "Inherited Runners": "0",
+            "H": "4",
+            "HR": "1",
+            "ER": "2",
+            "Strikes": "51",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "2",
+            "pitchingOrder": "1",
+            "ERA": "3.86",
+            "InningsPitched": "4.2",
+            "Batters Faced": "23",
+            "SO": "6",
+            "Pitches": "84"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "NYY",
+          "playerID": "681190"
+        },
+        "683011": {
+          "gameID": "20230526_SD@NYY",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "7",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".646",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".200"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "NYY",
+          "startingPosition": "SS",
+          "playerID": "683011"
+        }
+      },
+      "decisions": [
+        {
+          "decision": "W",
+          "playerID": "605397",
+          "team": "SD"
+        },
+        {
+          "decision": "HLD",
+          "playerID": "621051",
+          "team": "SD"
+        },
+        {
+          "decision": "L",
+          "playerID": "681190",
+          "team": "NYY"
+        }
+      ],
+      "gameStatus": "Completed",
+      "lastUpdated": 2023060110281187,
+      "Attendance": "46,724",
+      "teamStats": {
+        "away": {
+          "Pitching": {
+            "Groundouts": "7",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "1",
+            "Inherited Runners": "2",
+            "Batters Faced": "34",
+            "Pitches": "125",
+            "Strikes": "89",
+            "Inherited Runners Scored": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "3",
+            "PO": "1"
+          },
+          "Fielding": {
+            "E": "0",
+            "Pickoffs": "0",
+            "Passed Ball": "0"
+          },
+          "Hitting": {
+            "BB": "4",
+            "2B": "1",
+            "R": "5",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "3",
+            "H": "9",
+            "RBI": "5",
+            "IBB": "0",
+            "TB": "16",
+            "3B": "0",
+            "GIDP": "0"
+          }
+        },
+        "home": {
+          "Pitching": {
+            "Groundouts": "5",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "7",
+            "Inherited Runners": "2",
+            "Batters Faced": "42",
+            "Pitches": "155",
+            "Strikes": "94",
+            "Inherited Runners Scored": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "Fielding": {
+            "E": "0",
+            "Pickoffs": "1",
+            "Passed Ball": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "2B": "1",
+            "R": "1",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "H": "7",
+            "RBI": "1",
+            "IBB": "0",
+            "TB": "8",
+            "3B": "0",
+            "GIDP": "0"
+          }
+        }
+      },
+      "gameDate": "20230526",
+      "Venue": "Yankee Stadium",
+      "awayResult": "W",
+      "currentCount": "",
+      "homeResult": "L",
+      "away": "SD",
+      "Weather": "72 degrees, Clear",
+      "lineScore": {
+        "away": {
+          "H": "9",
+          "R": "5",
+          "team": "SD",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "2",
+            "6": "2",
+            "7": "0",
+            "8": "0",
+            "9": "1"
+          },
+          "E": "0"
+        },
+        "home": {
+          "H": "7",
+          "R": "1",
+          "team": "NYY",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "1",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "0"
+        }
+      },
+      "currentOuts": "",
+      "FirstPitch": "7:08 PM",
+      "currentInning": "Final",
+      "gameID": "20230526_SD@NYY",
+      "Wind": "8 mph, Out To RF",
+      "home": "NYY"
+    }
+  }

@@ -1,0 +1,4659 @@
+{
+    "team": "LAA",
+    "schedule": [
+      {
+        "gameID": "20230330_LAA@OAK",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "20",
+        "gameDate": "20230330",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "OAK",
+        "awayResult": "L",
+        "gameTime": "7:14p",
+        "gameTime_epoch": "1680218040.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "5",
+            "R": "1",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "6",
+            "R": "2",
+            "team": "OAK",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "2",
+              "9": "x"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230401_LAA@OAK",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "20",
+        "gameDate": "20230401",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "OAK",
+        "awayResult": "W",
+        "gameTime": "1:07p",
+        "gameTime_epoch": "1680368820.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "11",
+            "R": "13",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "11",
+              "4": "0",
+              "5": "0",
+              "6": "1",
+              "7": "1",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "2"
+          },
+          "home": {
+            "H": "5",
+            "R": "1",
+            "team": "OAK",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "2"
+          }
+        }
+      },
+      {
+        "gameID": "20230402_LAA@OAK",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "20",
+        "gameDate": "20230402",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "OAK",
+        "awayResult": "W",
+        "gameTime": "1:06p",
+        "gameTime_epoch": "1680455160.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "11",
+            "R": "6",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "3",
+              "5": "3",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "5",
+            "R": "0",
+            "team": "OAK",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230403_LAA@SEA",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "25",
+        "gameDate": "20230403",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "SEA",
+        "awayResult": "W",
+        "gameTime": "6:41p",
+        "gameTime_epoch": "1680561660.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "11",
+            "R": "7",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "0",
+              "4": "1",
+              "5": "2",
+              "6": "0",
+              "7": "0",
+              "8": "2",
+              "9": "1"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "5",
+            "R": "3",
+            "team": "SEA",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "1",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230404_LAA@SEA",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "25",
+        "gameDate": "20230404",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "SEA",
+        "awayResult": "L",
+        "gameTime": "6:41p",
+        "gameTime_epoch": "1680648060.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "7",
+            "R": "2",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "2",
+              "9": "0"
+            },
+            "E": "2"
+          },
+          "home": {
+            "H": "13",
+            "R": "11",
+            "team": "SEA",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "2",
+              "5": "5",
+              "6": "0",
+              "7": "3",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230405_LAA@SEA",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "25",
+        "gameDate": "20230405",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "SEA",
+        "awayResult": "W",
+        "gameTime": "1:10p",
+        "gameTime_epoch": "1680714600.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "5",
+            "R": "4",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "2",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "2",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "8",
+            "R": "3",
+            "team": "SEA",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "2",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230407_TOR@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TOR",
+        "teamIDHome": "13",
+        "gameDate": "20230407",
+        "gameStatus": "Completed",
+        "teamIDAway": "29",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "7:05p",
+        "gameTime_epoch": "1680908700.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "9",
+            "R": "4",
+            "team": "TOR",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "1",
+              "5": "0",
+              "6": "0",
+              "7": "3",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "2"
+          },
+          "home": {
+            "H": "4",
+            "R": "3",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "2",
+              "2": "0",
+              "3": "0",
+              "4": "1",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230408_TOR@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TOR",
+        "teamIDHome": "13",
+        "gameDate": "20230408",
+        "gameStatus": "Completed",
+        "teamIDAway": "29",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:07p",
+        "gameTime_epoch": "1680991620.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "10",
+            "R": "5",
+            "team": "TOR",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "4",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "2"
+          },
+          "home": {
+            "H": "10",
+            "R": "9",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "1",
+              "4": "2",
+              "5": "4",
+              "6": "0",
+              "7": "0",
+              "8": "2",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230409_TOR@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TOR",
+        "teamIDHome": "13",
+        "gameDate": "20230409",
+        "gameStatus": "Completed",
+        "teamIDAway": "29",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "1:06p",
+        "gameTime_epoch": "1681059960.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "13",
+            "R": "12",
+            "team": "TOR",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "6",
+              "7": "4",
+              "8": "0",
+              "9": "0",
+              "10": "2"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "13",
+            "R": "11",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "3",
+              "2": "0",
+              "3": "2",
+              "4": "1",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "1",
+              "9": "3",
+              "10": "1"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230410_WAS@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "WAS",
+        "teamIDHome": "13",
+        "gameDate": "20230410",
+        "gameStatus": "Completed",
+        "teamIDAway": "30",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "6:38p",
+        "gameTime_epoch": "1681166280.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "14",
+            "R": "6",
+            "team": "WAS",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "0",
+              "4": "3",
+              "5": "1",
+              "6": "0",
+              "7": "1",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "7",
+            "R": "4",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "2",
+              "2": "0",
+              "3": "2",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230411_WAS@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "WAS",
+        "teamIDHome": "13",
+        "gameDate": "20230411",
+        "gameStatus": "Completed",
+        "teamIDAway": "30",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:39p",
+        "gameTime_epoch": "1681252740.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "1",
+            "R": "0",
+            "team": "WAS",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "5",
+            "R": "2",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "1",
+              "5": "0",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230412_WAS@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "WAS",
+        "teamIDHome": "13",
+        "gameDate": "20230412",
+        "gameStatus": "Completed",
+        "teamIDAway": "30",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "1:07p",
+        "gameTime_epoch": "1681319220.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "6",
+            "R": "2",
+            "team": "WAS",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "2",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "2"
+          },
+          "home": {
+            "H": "7",
+            "R": "3",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "1",
+              "4": "1",
+              "5": "0",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230414_LAA@BOS",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "4",
+        "gameDate": "20230414",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "BOS",
+        "awayResult": "L",
+        "gameTime": "7:11p",
+        "gameTime_epoch": "1681513860.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "11",
+            "R": "3",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "2",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "1",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "3"
+          },
+          "home": {
+            "H": "5",
+            "R": "5",
+            "team": "BOS",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "2",
+              "5": "1",
+              "6": "2",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230415_LAA@BOS",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "4",
+        "gameDate": "20230415",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "BOS",
+        "awayResult": "L",
+        "gameTime": "4:10p",
+        "gameTime_epoch": "1681589400.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "9",
+            "R": "7",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "4",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "2",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "2"
+          },
+          "home": {
+            "H": "11",
+            "R": "9",
+            "team": "BOS",
+            "scoresByInning": {
+              "1": "2",
+              "2": "0",
+              "3": "1",
+              "4": "3",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "3",
+              "9": "x"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230416_LAA@BOS",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "4",
+        "gameDate": "20230416",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "BOS",
+        "awayResult": "L",
+        "gameTime": "1:34p",
+        "gameTime_epoch": "1681666440.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "4",
+            "R": "1",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "7",
+            "R": "2",
+            "team": "BOS",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "2",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230417_LAA@BOS",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "4",
+        "gameDate": "20230417",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "BOS",
+        "awayResult": "W",
+        "gameTime": "12:06p",
+        "gameTime_epoch": "1681747560.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "9",
+            "R": "5",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "4",
+              "2": "1",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "8",
+            "R": "4",
+            "team": "BOS",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "2",
+              "7": "0",
+              "8": "0",
+              "9": "1"
+            },
+            "E": "3"
+          }
+        }
+      },
+      {
+        "gameID": "20230418_LAA@NYY",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "19",
+        "gameDate": "20230418",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "NYY",
+        "awayResult": "W",
+        "gameTime": "7:09p",
+        "gameTime_epoch": "1681859340.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "8",
+            "R": "5",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "2",
+              "2": "0",
+              "3": "0",
+              "4": "2",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "4",
+            "R": "2",
+            "team": "NYY",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "2",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "2"
+          }
+        }
+      },
+      {
+        "gameID": "20230419_LAA@NYY",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "19",
+        "gameDate": "20230419",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "NYY",
+        "awayResult": "L",
+        "gameTime": "7:09p",
+        "gameTime_epoch": "1681945740.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "7",
+            "R": "2",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "1",
+              "9": "0",
+              "10": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "6",
+            "R": "3",
+            "team": "NYY",
+            "scoresByInning": {
+              "1": "2",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0",
+              "10": "1"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230420_LAA@NYY",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "19",
+        "gameDate": "20230420",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "NYY",
+        "awayResult": "L",
+        "gameTime": "4:08p",
+        "gameTime_epoch": "1682021280.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "7",
+            "R": "3",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "2",
+              "6": "0",
+              "7": "1",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "9",
+            "R": "9",
+            "team": "NYY",
+            "scoresByInning": {
+              "1": "5",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "3",
+              "8": "1",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230421_KC@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "KC",
+        "teamIDHome": "13",
+        "gameDate": "20230421",
+        "gameStatus": "Completed",
+        "teamIDAway": "12",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:39p",
+        "gameTime_epoch": "1682116740.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "3",
+            "R": "0",
+            "team": "KC",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "6",
+            "R": "2",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "2",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230422_KC@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "KC",
+        "teamIDHome": "13",
+        "gameDate": "20230422",
+        "gameStatus": "Completed",
+        "teamIDAway": "12",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "6:07p",
+        "gameTime_epoch": "1682201220.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "12",
+            "R": "11",
+            "team": "KC",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "1",
+              "4": "2",
+              "5": "0",
+              "6": "3",
+              "7": "0",
+              "8": "0",
+              "9": "5"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "12",
+            "R": "8",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "1",
+              "4": "1",
+              "5": "2",
+              "6": "2",
+              "7": "0",
+              "8": "2",
+              "9": "0"
+            },
+            "E": "2"
+          }
+        }
+      },
+      {
+        "gameID": "20230423_KC@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "KC",
+        "teamIDHome": "13",
+        "gameDate": "20230423",
+        "gameStatus": "Completed",
+        "teamIDAway": "12",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "1:08p",
+        "gameTime_epoch": "1682269680.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "8",
+            "R": "3",
+            "team": "KC",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "1",
+              "7": "1",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "7",
+            "R": "4",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "3",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230424_OAK@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "OAK",
+        "teamIDHome": "13",
+        "gameDate": "20230424",
+        "gameStatus": "Completed",
+        "teamIDAway": "20",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "6:39p",
+        "gameTime_epoch": "1682375940.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "14",
+            "R": "11",
+            "team": "OAK",
+            "scoresByInning": {
+              "1": "2",
+              "2": "3",
+              "3": "2",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "1",
+              "10": "3"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "13",
+            "R": "10",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "1",
+              "4": "0",
+              "5": "0",
+              "6": "5",
+              "7": "1",
+              "8": "0",
+              "9": "0",
+              "10": "2"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230425_OAK@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "OAK",
+        "teamIDHome": "13",
+        "gameDate": "20230425",
+        "gameStatus": "Completed",
+        "teamIDAway": "20",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:39p",
+        "gameTime_epoch": "1682462340.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "6",
+            "R": "3",
+            "team": "OAK",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "10",
+            "R": "5",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "4",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230426_OAK@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "OAK",
+        "teamIDHome": "13",
+        "gameDate": "20230426",
+        "gameStatus": "Completed",
+        "teamIDAway": "20",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:38p",
+        "gameTime_epoch": "1682548680.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "6",
+            "R": "3",
+            "team": "OAK",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "1",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "3"
+          },
+          "home": {
+            "H": "12",
+            "R": "11",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "5",
+              "3": "1",
+              "4": "0",
+              "5": "2",
+              "6": "1",
+              "7": "0",
+              "8": "2",
+              "9": "x"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230427_OAK@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "OAK",
+        "teamIDHome": "13",
+        "gameDate": "20230427",
+        "gameStatus": "Completed",
+        "teamIDAway": "20",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "1:07p",
+        "gameTime_epoch": "1682615220.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "7",
+            "R": "7",
+            "team": "OAK",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "5",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "2",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "10",
+            "R": "8",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "5",
+              "4": "0",
+              "5": "2",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230428_LAA@MIL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "16",
+        "gameDate": "20230428",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "MIL",
+        "awayResult": "L",
+        "gameTime": "7:09p",
+        "gameTime_epoch": "1682723340.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "9",
+            "R": "1",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "1",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "8",
+            "R": "2",
+            "team": "MIL",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "1",
+              "9": "x"
+            },
+            "E": "2"
+          }
+        }
+      },
+      {
+        "gameID": "20230429_LAA@MIL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "16",
+        "gameDate": "20230429",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "MIL",
+        "awayResult": "L",
+        "gameTime": "6:10p",
+        "gameTime_epoch": "1682806200.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "11",
+            "R": "5",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "2",
+              "9": "2"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "5",
+            "R": "7",
+            "team": "MIL",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "3",
+              "4": "0",
+              "5": "4",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230430_LAA@MIL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "16",
+        "gameDate": "20230430",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "MIL",
+        "awayResult": "W",
+        "gameTime": "1:10p",
+        "gameTime_epoch": "1682874600.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "5",
+            "R": "3",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "1",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "1",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "3",
+            "R": "0",
+            "team": "MIL",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230502_LAA@STL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "26",
+        "gameDate": "20230502",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "STL",
+        "awayResult": "W",
+        "gameTime": "6:45p",
+        "gameTime_epoch": "1683067500.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "8",
+            "R": "5",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "4",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "4",
+            "R": "1",
+            "team": "STL",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230503_LAA@STL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "26",
+        "gameDate": "20230503",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "STL",
+        "awayResult": "W",
+        "gameTime": "6:45p",
+        "gameTime_epoch": "1683153900.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "13",
+            "R": "6",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "2",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "3"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "7",
+            "R": "4",
+            "team": "STL",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "3",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230504_LAA@STL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "26",
+        "gameDate": "20230504",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "STL",
+        "awayResult": "W",
+        "gameTime": "12:16p",
+        "gameTime_epoch": "1683216960.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "16",
+            "R": "11",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "4",
+              "3": "6",
+              "4": "1",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "10",
+            "R": "7",
+            "team": "STL",
+            "scoresByInning": {
+              "1": "2",
+              "2": "0",
+              "3": "0",
+              "4": "3",
+              "5": "0",
+              "6": "2",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230505_TEX@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TEX",
+        "teamIDHome": "13",
+        "gameDate": "20230505",
+        "gameStatus": "Completed",
+        "teamIDAway": "28",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:38p",
+        "gameTime_epoch": "1683326280.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "8",
+            "R": "4",
+            "team": "TEX",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "1",
+              "4": "2",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "1",
+              "9": "0",
+              "10": "0"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "9",
+            "R": "5",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "1",
+              "9": "3",
+              "10": "1"
+            },
+            "E": "2"
+          }
+        }
+      },
+      {
+        "gameID": "20230506_TEX@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TEX",
+        "teamIDHome": "13",
+        "gameDate": "20230506",
+        "gameStatus": "Completed",
+        "teamIDAway": "28",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "6:09p",
+        "gameTime_epoch": "1683410940.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "15",
+            "R": "10",
+            "team": "TEX",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "3",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "7"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "6",
+            "R": "1",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "1"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230507_TEX@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TEX",
+        "teamIDHome": "13",
+        "gameDate": "20230507",
+        "gameStatus": "Completed",
+        "teamIDAway": "28",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "1:08p",
+        "gameTime_epoch": "1683479280.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "17",
+            "R": "16",
+            "team": "TEX",
+            "scoresByInning": {
+              "1": "0",
+              "2": "3",
+              "3": "4",
+              "4": "4",
+              "5": "0",
+              "6": "0",
+              "7": "5",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "13",
+            "R": "8",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "3",
+              "2": "0",
+              "3": "2",
+              "4": "2",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "1"
+            },
+            "E": "3"
+          }
+        }
+      },
+      {
+        "gameID": "20230508_HOU@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "HOU",
+        "teamIDHome": "13",
+        "gameDate": "20230508",
+        "gameStatus": "Completed",
+        "teamIDAway": "11",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:39p",
+        "gameTime_epoch": "1683585540.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "7",
+            "R": "4",
+            "team": "HOU",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "3",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "11",
+            "R": "6",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "2",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "2",
+              "9": "x"
+            },
+            "E": "2"
+          }
+        }
+      },
+      {
+        "gameID": "20230509_HOU@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "HOU",
+        "teamIDHome": "13",
+        "gameDate": "20230509",
+        "gameStatus": "Completed",
+        "teamIDAway": "11",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "9:39p",
+        "gameTime_epoch": "1683682740.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "7",
+            "R": "3",
+            "team": "HOU",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "3",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "2"
+          },
+          "home": {
+            "H": "3",
+            "R": "1",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "1",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230510_HOU@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "HOU",
+        "teamIDHome": "13",
+        "gameDate": "20230510",
+        "gameStatus": "Completed",
+        "teamIDAway": "11",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "1:08p",
+        "gameTime_epoch": "1683738480.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "8",
+            "R": "5",
+            "team": "HOU",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "4",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "8",
+            "R": "4",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "2",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "2"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230512_LAA@CLE",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "8",
+        "gameDate": "20230512",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "CLE",
+        "awayResult": "W",
+        "gameTime": "7:10p",
+        "gameTime_epoch": "1683933000.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "12",
+            "R": "5",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "3",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "2"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "11",
+            "R": "4",
+            "team": "CLE",
+            "scoresByInning": {
+              "1": "1",
+              "2": "1",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "1",
+              "9": "0"
+            },
+            "E": "2"
+          }
+        }
+      },
+      {
+        "gameID": "20230513_LAA@CLE",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "8",
+        "gameDate": "20230513",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "CLE",
+        "awayResult": "L",
+        "gameTime": "6:09p",
+        "gameTime_epoch": "1684015740.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "10",
+            "R": "6",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "2",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "1",
+              "8": "2",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "12",
+            "R": "8",
+            "team": "CLE",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "2",
+              "7": "0",
+              "8": "6",
+              "9": "x"
+            },
+            "E": "2"
+          }
+        }
+      },
+      {
+        "gameID": "20230514_LAA@CLE",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "8",
+        "gameDate": "20230514",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "CLE",
+        "awayResult": "L",
+        "gameTime": "11:36a",
+        "gameTime_epoch": "1684078560.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "5",
+            "R": "3",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "1",
+              "9": "2"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "7",
+            "R": "4",
+            "team": "CLE",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "3",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230515_LAA@BAL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "3",
+        "gameDate": "20230515",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "BAL",
+        "awayResult": "W",
+        "gameTime": "6:36p",
+        "gameTime_epoch": "1684190160.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "17",
+            "R": "9",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "2",
+              "4": "5",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "6",
+            "R": "5",
+            "team": "BAL",
+            "scoresByInning": {
+              "1": "0",
+              "2": "2",
+              "3": "2",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230516_LAA@BAL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "3",
+        "gameDate": "20230516",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "BAL",
+        "awayResult": "L",
+        "gameTime": "6:37p",
+        "gameTime_epoch": "1684276620.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "8",
+            "R": "3",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "9",
+            "R": "7",
+            "team": "BAL",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "0",
+              "4": "3",
+              "5": "0",
+              "6": "3",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230517_LAA@BAL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "3",
+        "gameDate": "20230517",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "BAL",
+        "awayResult": "L",
+        "gameTime": "6:36p",
+        "gameTime_epoch": "1684362960.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "4",
+            "R": "1",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "1",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "11",
+            "R": "3",
+            "team": "BAL",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "1",
+              "4": "1",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230518_LAA@BAL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "teamIDHome": "3",
+        "gameDate": "20230518",
+        "gameStatus": "Completed",
+        "teamIDAway": "13",
+        "home": "BAL",
+        "awayResult": "W",
+        "gameTime": "12:36p",
+        "gameTime_epoch": "1684427760.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "13",
+            "R": "6",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "2",
+              "4": "0",
+              "5": "0",
+              "6": "1",
+              "7": "0",
+              "8": "2",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "10",
+            "R": "5",
+            "team": "BAL",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "3",
+              "6": "0",
+              "7": "2",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230519_MIN@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "MIN",
+        "teamIDHome": "13",
+        "gameDate": "20230519",
+        "gameStatus": "Completed",
+        "teamIDAway": "17",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:39p",
+        "gameTime_epoch": "1684535940.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "6",
+            "R": "4",
+            "team": "MIN",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "3",
+              "7": "1",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "1"
+          },
+          "home": {
+            "H": "10",
+            "R": "5",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "1",
+              "4": "2",
+              "5": "0",
+              "6": "0",
+              "7": "2",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230520_MIN@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "MIN",
+        "teamIDHome": "13",
+        "gameDate": "20230520",
+        "gameStatus": "Completed",
+        "teamIDAway": "17",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "7:09p",
+        "gameTime_epoch": "1684624140.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "12",
+            "R": "6",
+            "team": "MIN",
+            "scoresByInning": {
+              "1": "3",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "1",
+              "7": "2",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "8",
+            "R": "2",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "1",
+              "5": "0",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "1"
+          }
+        }
+      },
+      {
+        "gameID": "20230521_MIN@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "MIN",
+        "teamIDHome": "13",
+        "gameDate": "20230521",
+        "gameStatus": "Completed",
+        "teamIDAway": "17",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "1:08p",
+        "gameTime_epoch": "1684688880.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "7",
+            "R": "2",
+            "team": "MIN",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "1",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "1",
+              "9": "0"
+            },
+            "E": "2"
+          },
+          "home": {
+            "H": "9",
+            "R": "4",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "1",
+              "5": "0",
+              "6": "0",
+              "7": "2",
+              "8": "1",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230522_BOS@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "BOS",
+        "teamIDHome": "13",
+        "gameDate": "20230522",
+        "gameStatus": "Completed",
+        "teamIDAway": "4",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:38p",
+        "gameTime_epoch": "1684795080.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "4",
+            "R": "1",
+            "team": "BOS",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "5",
+            "R": "2",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "1",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230523_BOS@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "BOS",
+        "teamIDHome": "13",
+        "gameDate": "20230523",
+        "gameStatus": "Completed",
+        "teamIDAway": "4",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:38p",
+        "gameTime_epoch": "1684881480.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "2",
+            "R": "0",
+            "team": "BOS",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "9",
+            "R": "4",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "0",
+              "8": "2",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230524_BOS@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "BOS",
+        "teamIDHome": "13",
+        "gameDate": "20230524",
+        "gameStatus": "Completed",
+        "teamIDAway": "4",
+        "home": "LAA",
+        "awayResult": "L",
+        "gameTime": "6:38p",
+        "gameTime_epoch": "1684967880.0",
+        "homeResult": "W",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "8",
+            "R": "3",
+            "team": "BOS",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "1",
+              "5": "0",
+              "6": "0",
+              "7": "1",
+              "8": "0",
+              "9": "1"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "7",
+            "R": "7",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "4",
+              "3": "1",
+              "4": "2",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "x"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230526_MIA@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "MIA",
+        "teamIDHome": "13",
+        "gameDate": "20230526",
+        "gameStatus": "Completed",
+        "teamIDAway": "15",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "6:41p",
+        "gameTime_epoch": "1685140860.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "16",
+            "R": "6",
+            "team": "MIA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "1",
+              "4": "0",
+              "5": "0",
+              "6": "1",
+              "7": "2",
+              "8": "1",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "10",
+            "R": "2",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230527_MIA@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "MIA",
+        "teamIDHome": "13",
+        "gameDate": "20230527",
+        "gameStatus": "Completed",
+        "teamIDAway": "15",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "7:07p",
+        "gameTime_epoch": "1685228820.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "8",
+            "R": "8",
+            "team": "MIA",
+            "scoresByInning": {
+              "1": "1",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "1",
+              "6": "0",
+              "7": "2",
+              "8": "0",
+              "9": "0",
+              "10": "4"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "8",
+            "R": "5",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "1",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "2",
+              "7": "0",
+              "8": "1",
+              "9": "0",
+              "10": "1"
+            },
+            "E": "3"
+          }
+        }
+      },
+      {
+        "gameID": "20230528_MIA@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "MIA",
+        "teamIDHome": "13",
+        "gameDate": "20230528",
+        "gameStatus": "Completed",
+        "teamIDAway": "15",
+        "home": "LAA",
+        "awayResult": "W",
+        "gameTime": "1:07p",
+        "gameTime_epoch": "1685293620.0",
+        "homeResult": "L",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "lineScore": {
+          "away": {
+            "H": "9",
+            "R": "2",
+            "team": "MIA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "1",
+              "4": "0",
+              "5": "0",
+              "6": "1",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          },
+          "home": {
+            "H": "5",
+            "R": "0",
+            "team": "LAA",
+            "scoresByInning": {
+              "1": "0",
+              "2": "0",
+              "3": "0",
+              "4": "0",
+              "5": "0",
+              "6": "0",
+              "7": "0",
+              "8": "0",
+              "9": "0"
+            },
+            "E": "0"
+          }
+        }
+      },
+      {
+        "gameID": "20230529_LAA@CHW",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:10p",
+        "teamIDHome": "6",
+        "gameDate": "20230529",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1685405400.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "656288",
+          "home": "656629"
+        },
+        "home": "CHW"
+      },
+      {
+        "gameID": "20230530_LAA@CHW",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:10p",
+        "teamIDHome": "6",
+        "gameDate": "20230530",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1685491800.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "542881",
+          "home": "608337"
+        },
+        "home": "CHW"
+      },
+      {
+        "gameID": "20230531_LAA@CHW",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "2:10p",
+        "teamIDHome": "6",
+        "gameDate": "20230531",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1685556600.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "642545",
+          "home": "458681"
+        },
+        "home": "CHW"
+      },
+      {
+        "gameID": "20230601_LAA@HOU",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:10p",
+        "teamIDHome": "11",
+        "gameDate": "20230601",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1685664600.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "672282",
+          "home": "664285"
+        },
+        "home": "HOU"
+      },
+      {
+        "gameID": "20230602_LAA@HOU",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:10p",
+        "teamIDHome": "11",
+        "gameDate": "20230602",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1685751000.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "660271",
+          "home": "664299"
+        },
+        "home": "HOU"
+      },
+      {
+        "gameID": "20230603_LAA@HOU",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "4:10p",
+        "teamIDHome": "11",
+        "gameDate": "20230603",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1685823000.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "663776",
+          "home": "641585"
+        },
+        "home": "HOU"
+      },
+      {
+        "gameID": "20230604_LAA@HOU",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "2:10p",
+        "teamIDHome": "11",
+        "gameDate": "20230604",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1685902200.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "656288",
+          "home": "656232"
+        },
+        "home": "HOU"
+      },
+      {
+        "gameID": "20230606_CHC@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CHC",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230606",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686101880.0",
+        "teamIDAway": "5",
+        "probableStartingPitchers": {
+          "away": "657006",
+          "home": "542881"
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230607_CHC@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CHC",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230607",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686188280.0",
+        "teamIDAway": "5",
+        "probableStartingPitchers": {
+          "away": "592791",
+          "home": "642545"
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230608_CHC@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CHC",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230608",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686274680.0",
+        "teamIDAway": "5",
+        "probableStartingPitchers": {
+          "away": "592767",
+          "home": "672282"
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230609_SEA@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "SEA",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230609",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686361080.0",
+        "teamIDAway": "25",
+        "probableStartingPitchers": {
+          "away": "622491",
+          "home": "660271"
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230610_SEA@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "SEA",
+        "gameTime": "10:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230610",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686449220.0",
+        "teamIDAway": "25",
+        "probableStartingPitchers": {
+          "away": "594835",
+          "home": "663776"
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230611_SEA@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "SEA",
+        "gameTime": "4:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230611",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686514020.0",
+        "teamIDAway": "25",
+        "probableStartingPitchers": {
+          "away": "682243",
+          "home": "656288"
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230612_LAA@TEX",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:05p",
+        "teamIDHome": "28",
+        "gameDate": "20230612",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686614700.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TEX"
+      },
+      {
+        "gameID": "20230613_LAA@TEX",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:05p",
+        "teamIDHome": "28",
+        "gameDate": "20230613",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686701100.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TEX"
+      },
+      {
+        "gameID": "20230614_LAA@TEX",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:05p",
+        "teamIDHome": "28",
+        "gameDate": "20230614",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686787500.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TEX"
+      },
+      {
+        "gameID": "20230615_LAA@TEX",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:05p",
+        "teamIDHome": "28",
+        "gameDate": "20230615",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686873900.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TEX"
+      },
+      {
+        "gameID": "20230616_LAA@KC",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:10p",
+        "teamIDHome": "12",
+        "gameDate": "20230616",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1686960600.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "KC"
+      },
+      {
+        "gameID": "20230617_LAA@KC",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "4:10p",
+        "teamIDHome": "12",
+        "gameDate": "20230617",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1687032600.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "KC"
+      },
+      {
+        "gameID": "20230618_LAA@KC",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "2:10p",
+        "teamIDHome": "12",
+        "gameDate": "20230618",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1687111800.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "KC"
+      },
+      {
+        "gameID": "20230620_LAD@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAD",
+        "gameTime": "10:05p",
+        "teamIDHome": "13",
+        "gameDate": "20230620",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1687313100.0",
+        "teamIDAway": "14",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230621_LAD@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAD",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230621",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1687397880.0",
+        "teamIDAway": "14",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230623_LAA@COL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:40p",
+        "teamIDHome": "9",
+        "gameDate": "20230623",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1687567200.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "COL"
+      },
+      {
+        "gameID": "20230624_LAA@COL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "9:10p",
+        "teamIDHome": "9",
+        "gameDate": "20230624",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1687655400.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "COL"
+      },
+      {
+        "gameID": "20230625_LAA@COL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "3:10p",
+        "teamIDHome": "9",
+        "gameDate": "20230625",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1687720200.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "COL"
+      },
+      {
+        "gameID": "20230626_CHW@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CHW",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230626",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1687829880.0",
+        "teamIDAway": "6",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230627_CHW@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CHW",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230627",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1687916280.0",
+        "teamIDAway": "6",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230628_CHW@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CHW",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230628",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1688002680.0",
+        "teamIDAway": "6",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230629_CHW@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CHW",
+        "gameTime": "4:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230629",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1688069220.0",
+        "teamIDAway": "6",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230630_ARI@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "ARI",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230630",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1688175480.0",
+        "teamIDAway": "1",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230701_ARI@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "ARI",
+        "gameTime": "10:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230701",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1688263620.0",
+        "teamIDAway": "1",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230702_ARI@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "ARI",
+        "gameTime": "4:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230702",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1688328420.0",
+        "teamIDAway": "1",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230703_LAA@SD",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "9:40p",
+        "teamIDHome": "23",
+        "gameDate": "20230703",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1688434800.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "SD"
+      },
+      {
+        "gameID": "20230704_LAA@SD",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "6:40p",
+        "teamIDHome": "23",
+        "gameDate": "20230704",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1688510400.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "SD"
+      },
+      {
+        "gameID": "20230705_LAA@SD",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:40p",
+        "teamIDHome": "23",
+        "gameDate": "20230705",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1688604000.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "SD"
+      },
+      {
+        "gameID": "20230707_LAA@LAD",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "10:10p",
+        "teamIDHome": "14",
+        "gameDate": "20230707",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1688782200.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAD"
+      },
+      {
+        "gameID": "20230708_LAA@LAD",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "9:10p",
+        "teamIDHome": "14",
+        "gameDate": "20230708",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1688865000.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAD"
+      },
+      {
+        "gameID": "20230714_HOU@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "HOU",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230714",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1689385080.0",
+        "teamIDAway": "11",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230715_HOU@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "HOU",
+        "gameTime": "9:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230715",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1689469620.0",
+        "teamIDAway": "11",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230716_HOU@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "HOU",
+        "gameTime": "4:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230716",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1689538020.0",
+        "teamIDAway": "11",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230717_NYY@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "NYY",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230717",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1689644280.0",
+        "teamIDAway": "19",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230718_NYY@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "NYY",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230718",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1689730680.0",
+        "teamIDAway": "19",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230719_NYY@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "NYY",
+        "gameTime": "7:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230719",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1689808020.0",
+        "teamIDAway": "19",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230721_PIT@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "PIT",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230721",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1689989880.0",
+        "teamIDAway": "22",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230722_PIT@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "PIT",
+        "gameTime": "9:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230722",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690074420.0",
+        "teamIDAway": "22",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230723_PIT@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "PIT",
+        "gameTime": "4:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230723",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690142820.0",
+        "teamIDAway": "22",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230725_LAA@DET",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "6:40p",
+        "teamIDHome": "10",
+        "gameDate": "20230725",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690324800.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "DET"
+      },
+      {
+        "gameID": "20230726_LAA@DET",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "6:40p",
+        "teamIDHome": "10",
+        "gameDate": "20230726",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690411200.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "DET"
+      },
+      {
+        "gameID": "20230727_LAA@DET",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "1:10p",
+        "teamIDHome": "10",
+        "gameDate": "20230727",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690477800.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "DET"
+      },
+      {
+        "gameID": "20230728_LAA@TOR",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "7:07p",
+        "teamIDHome": "29",
+        "gameDate": "20230728",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690585620.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TOR"
+      },
+      {
+        "gameID": "20230729_LAA@TOR",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "3:07p",
+        "teamIDHome": "29",
+        "gameDate": "20230729",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690657620.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TOR"
+      },
+      {
+        "gameID": "20230730_LAA@TOR",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "12:05p",
+        "teamIDHome": "29",
+        "gameDate": "20230730",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690733100.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TOR"
+      },
+      {
+        "gameID": "20230731_LAA@ATL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "7:20p",
+        "teamIDHome": "2",
+        "gameDate": "20230731",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690845600.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "ATL"
+      },
+      {
+        "gameID": "20230801_LAA@ATL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "7:20p",
+        "teamIDHome": "2",
+        "gameDate": "20230801",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690932000.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "ATL"
+      },
+      {
+        "gameID": "20230802_LAA@ATL",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "12:20p",
+        "teamIDHome": "2",
+        "gameDate": "20230802",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1690993200.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "ATL"
+      },
+      {
+        "gameID": "20230803_SEA@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "SEA",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230803",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1691113080.0",
+        "teamIDAway": "25",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230804_SEA@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "SEA",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230804",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1691199480.0",
+        "teamIDAway": "25",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230805_SEA@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "SEA",
+        "gameTime": "9:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230805",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1691284020.0",
+        "teamIDAway": "25",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230806_SEA@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "SEA",
+        "gameTime": "4:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230806",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1691352420.0",
+        "teamIDAway": "25",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230807_SF@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "SF",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230807",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1691458680.0",
+        "teamIDAway": "24",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230808_SF@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "SF",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230808",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1691545080.0",
+        "teamIDAway": "24",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230809_SF@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "SF",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230809",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1691631480.0",
+        "teamIDAway": "24",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230811_LAA@HOU",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:10p",
+        "teamIDHome": "11",
+        "gameDate": "20230811",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1691799000.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "HOU"
+      },
+      {
+        "gameID": "20230812_LAA@HOU",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "7:15p",
+        "teamIDHome": "11",
+        "gameDate": "20230812",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1691882100.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "HOU"
+      },
+      {
+        "gameID": "20230813_LAA@HOU",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "2:10p",
+        "teamIDHome": "11",
+        "gameDate": "20230813",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1691950200.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "HOU"
+      },
+      {
+        "gameID": "20230814_LAA@TEX",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:05p",
+        "teamIDHome": "28",
+        "gameDate": "20230814",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1692057900.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TEX"
+      },
+      {
+        "gameID": "20230815_LAA@TEX",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:05p",
+        "teamIDHome": "28",
+        "gameDate": "20230815",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1692144300.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TEX"
+      },
+      {
+        "gameID": "20230816_LAA@TEX",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:05p",
+        "teamIDHome": "28",
+        "gameDate": "20230816",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1692230700.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TEX"
+      },
+      {
+        "gameID": "20230818_TB@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TB",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230818",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1692409080.0",
+        "teamIDAway": "27",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230819_TB@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TB",
+        "gameTime": "9:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230819",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1692493620.0",
+        "teamIDAway": "27",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230820_TB@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TB",
+        "gameTime": "4:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230820",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1692562020.0",
+        "teamIDAway": "27",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230821_CIN@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CIN",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230821",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1692668280.0",
+        "teamIDAway": "7",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230822_CIN@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CIN",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230822",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1692754680.0",
+        "teamIDAway": "7",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230823_CIN@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CIN",
+        "gameTime": "4:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230823",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1692821220.0",
+        "teamIDAway": "7",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230825_LAA@NYM",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "7:10p",
+        "teamIDHome": "18",
+        "gameDate": "20230825",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693005000.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "NYM"
+      },
+      {
+        "gameID": "20230826_LAA@NYM",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "7:10p",
+        "teamIDHome": "18",
+        "gameDate": "20230826",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693091400.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "NYM"
+      },
+      {
+        "gameID": "20230827_LAA@NYM",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "12:05p",
+        "teamIDHome": "18",
+        "gameDate": "20230827",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693152300.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "NYM"
+      },
+      {
+        "gameID": "20230828_LAA@PHI",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "6:40p",
+        "teamIDHome": "21",
+        "gameDate": "20230828",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693262400.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "PHI"
+      },
+      {
+        "gameID": "20230829_LAA@PHI",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "6:40p",
+        "teamIDHome": "21",
+        "gameDate": "20230829",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693348800.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "PHI"
+      },
+      {
+        "gameID": "20230830_LAA@PHI",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "1:05p",
+        "teamIDHome": "21",
+        "gameDate": "20230830",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693415100.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "PHI"
+      },
+      {
+        "gameID": "20230901_LAA@OAK",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "9:40p",
+        "teamIDHome": "20",
+        "gameDate": "20230901",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693618800.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "OAK"
+      },
+      {
+        "gameID": "20230902_LAA@OAK",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "4:07p",
+        "teamIDHome": "20",
+        "gameDate": "20230902",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693685220.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "OAK"
+      },
+      {
+        "gameID": "20230903_LAA@OAK",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "4:07p",
+        "teamIDHome": "20",
+        "gameDate": "20230903",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693771620.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "OAK"
+      },
+      {
+        "gameID": "20230904_BAL@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "BAL",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230904",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693877880.0",
+        "teamIDAway": "3",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230905_BAL@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "BAL",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230905",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1693964280.0",
+        "teamIDAway": "3",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230906_BAL@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "BAL",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230906",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694050680.0",
+        "teamIDAway": "3",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230907_CLE@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CLE",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230907",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694137080.0",
+        "teamIDAway": "8",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230908_CLE@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CLE",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230908",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694223480.0",
+        "teamIDAway": "8",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230909_CLE@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CLE",
+        "gameTime": "9:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230909",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694308020.0",
+        "teamIDAway": "8",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230910_CLE@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "CLE",
+        "gameTime": "4:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230910",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694376420.0",
+        "teamIDAway": "8",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230911_LAA@SEA",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "9:40p",
+        "teamIDHome": "25",
+        "gameDate": "20230911",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694482800.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "SEA"
+      },
+      {
+        "gameID": "20230912_LAA@SEA",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "9:40p",
+        "teamIDHome": "25",
+        "gameDate": "20230912",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694569200.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "SEA"
+      },
+      {
+        "gameID": "20230913_LAA@SEA",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "4:10p",
+        "teamIDHome": "25",
+        "gameDate": "20230913",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694635800.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "SEA"
+      },
+      {
+        "gameID": "20230915_DET@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "DET",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230915",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694828280.0",
+        "teamIDAway": "10",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230916_DET@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "DET",
+        "gameTime": "9:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230916",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694912820.0",
+        "teamIDAway": "10",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230917_DET@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "DET",
+        "gameTime": "4:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230917",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1694981220.0",
+        "teamIDAway": "10",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230919_LAA@TB",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "6:40p",
+        "teamIDHome": "27",
+        "gameDate": "20230919",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1695163200.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TB"
+      },
+      {
+        "gameID": "20230920_LAA@TB",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "6:40p",
+        "teamIDHome": "27",
+        "gameDate": "20230920",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1695249600.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TB"
+      },
+      {
+        "gameID": "20230921_LAA@TB",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "1:10p",
+        "teamIDHome": "27",
+        "gameDate": "20230921",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1695316200.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "TB"
+      },
+      {
+        "gameID": "20230922_LAA@MIN",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "8:10p",
+        "teamIDHome": "17",
+        "gameDate": "20230922",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1695427800.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "MIN"
+      },
+      {
+        "gameID": "20230923_LAA@MIN",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "2:10p",
+        "teamIDHome": "17",
+        "gameDate": "20230923",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1695492600.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "MIN"
+      },
+      {
+        "gameID": "20230924_LAA@MIN",
+        "gameType": "REGULAR_SEASON",
+        "away": "LAA",
+        "gameTime": "2:10p",
+        "teamIDHome": "17",
+        "gameDate": "20230924",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1695579000.0",
+        "teamIDAway": "13",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "MIN"
+      },
+      {
+        "gameID": "20230925_TEX@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TEX",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230925",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1695692280.0",
+        "teamIDAway": "28",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230926_TEX@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TEX",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230926",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1695778680.0",
+        "teamIDAway": "28",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230927_TEX@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "TEX",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230927",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1695865080.0",
+        "teamIDAway": "28",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230929_OAK@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "OAK",
+        "gameTime": "9:38p",
+        "teamIDHome": "13",
+        "gameDate": "20230929",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1696037880.0",
+        "teamIDAway": "20",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20230930_OAK@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "OAK",
+        "gameTime": "9:07p",
+        "teamIDHome": "13",
+        "gameDate": "20230930",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1696122420.0",
+        "teamIDAway": "20",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      },
+      {
+        "gameID": "20231001_OAK@LAA",
+        "gameType": "REGULAR_SEASON",
+        "away": "OAK",
+        "gameTime": "3:07p",
+        "teamIDHome": "13",
+        "gameDate": "20231001",
+        "gameStatus": "scheduled",
+        "gameTime_epoch": "1696187220.0",
+        "teamIDAway": "20",
+        "probableStartingPitchers": {
+          "away": "",
+          "home": ""
+        },
+        "home": "LAA"
+      }
+    ]
+  }

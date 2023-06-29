@@ -1,0 +1,1617 @@
+{
+    "statusCode": 200,
+    "body": {
+      "GameLength": "2:41",
+      "Umpires": "HP: Alan Porter. 1B: Jim Wolf. 2B: Mike Muchlinski. 3B: Sean Barber.",
+      "playerStats": {
+        "408234": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "DH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "7",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".460",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "1",
+            "LOB": ".170"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "DET",
+          "startingPosition": "DH",
+          "playerID": "408234"
+        },
+        "458681": {
+          "gameID": "20230526_CHW@DET",
+          "Pitching": {
+            "BB": "5",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "W",
+            "Flyouts": "3",
+            "Inherited Runners": "0",
+            "H": "3",
+            "HR": "0",
+            "ER": "1",
+            "Strikes": "58",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "9",
+            "R": "3",
+            "pitchingOrder": "1",
+            "ERA": "5.83",
+            "InningsPitched": "6.0",
+            "Batters Faced": "27",
+            "SO": "5",
+            "Pitches": "104"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "CHW",
+          "playerID": "458681"
+        },
+        "518735": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "6",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".768",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "2",
+            "SO": "1",
+            "LOB": ".277"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "CHW",
+          "startingPosition": "C",
+          "playerID": "518735"
+        },
+        "593643": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "2B-3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "1",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "9",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".647",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "2",
+            "SO": "1",
+            "LOB": ".218"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "CHW",
+          "startingPosition": "2B",
+          "playerID": "593643"
+        },
+        "595879": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "3",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".610",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".236"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "DET",
+          "startingPosition": "SS",
+          "playerID": "595879"
+        },
+        "625643": {
+          "gameID": "20230526_CHW@DET",
+          "Pitching": {
+            "BB": "1",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "H": "0",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "10",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "0",
+            "pitchingOrder": "3",
+            "ERA": "6.33",
+            "InningsPitched": "1.0",
+            "Batters Faced": "4",
+            "SO": "0",
+            "Pitches": "17"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "CHW",
+          "playerID": "625643"
+        },
+        "628451": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "0",
+            "battingOrder": "3",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".479",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".171"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "DET",
+          "playerID": "628451"
+        },
+        "640449": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "8",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "4",
+            "3B": "1",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".911",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".333"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "CHW",
+          "startingPosition": "RF",
+          "playerID": "640449"
+        },
+        "641302": {
+          "gameID": "20230526_CHW@DET",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "5",
+            "Inherited Runners": "0",
+            "H": "4",
+            "HR": "0",
+            "ER": "2",
+            "Strikes": "28",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "0",
+            "R": "3",
+            "pitchingOrder": "3",
+            "ERA": "6.65",
+            "InningsPitched": "2.0",
+            "Batters Faced": "11",
+            "SO": "1",
+            "Pitches": "37"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "DET",
+          "playerID": "641302"
+        },
+        "641313": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "5",
+            "battingOrder": "1",
+            "H": "4",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "4",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "3",
+            "AVG": ".604",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "0",
+            "LOB": ".264"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "CHW",
+          "startingPosition": "SS",
+          "playerID": "641313"
+        },
+        "641871": {
+          "gameID": "20230526_CHW@DET",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "0",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "7",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "0",
+            "R": "0",
+            "pitchingOrder": "2",
+            "ERA": "1.65",
+            "InningsPitched": "1.0",
+            "Batters Faced": "3",
+            "SO": "2",
+            "Pitches": "9"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "CHW",
+          "playerID": "641871"
+        },
+        "643217": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "5",
+            "battingOrder": "2",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "4",
+            "3B": "1",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".693",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "0",
+            "LOB": ".275"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "CHW",
+          "startingPosition": "LF",
+          "playerID": "643217"
+        },
+        "656514": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "0",
+            "battingOrder": "3",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".560",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".222"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "CHW",
+          "playerID": "656514"
+        },
+        "656716": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "3",
+            "AB": "2",
+            "battingOrder": "1",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".801",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".274"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "DET",
+          "startingPosition": "3B",
+          "playerID": "656716"
+        },
+        "660162": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "4",
+            "H": "3",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "5",
+            "3B": "1",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".785",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "3",
+            "SO": "1",
+            "LOB": ".284"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "CHW",
+          "startingPosition": "3B",
+          "playerID": "660162"
+        },
+        "663837": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "8",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "GIDP": "1",
+            "3B": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".661",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".247"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "DET",
+          "startingPosition": "RF",
+          "playerID": "663837"
+        },
+        "663853": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "0",
+            "battingOrder": "4",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".502",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".189"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "CHW",
+          "playerID": "663853"
+        },
+        "665155": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "2B-SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "5",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".609",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".163"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "DET",
+          "startingPosition": "2B",
+          "playerID": "665155"
+        },
+        "666214": {
+          "gameID": "20230526_CHW@DET",
+          "Pitching": {
+            "BB": "2",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "L",
+            "Flyouts": "4",
+            "Inherited Runners": "0",
+            "H": "6",
+            "HR": "0",
+            "ER": "5",
+            "Strikes": "50",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "3",
+            "R": "5",
+            "pitchingOrder": "1",
+            "ERA": "7.80",
+            "InningsPitched": "4.0",
+            "Batters Faced": "20",
+            "SO": "4",
+            "Pitches": "80"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "DET",
+          "playerID": "666214"
+        },
+        "668670": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "1",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "9",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".622",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".156"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "DET",
+          "startingPosition": "C",
+          "playerID": "668670"
+        },
+        "668731": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "6",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".730",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "0",
+            "LOB": ".259"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "DET",
+          "startingPosition": "LF",
+          "playerID": "668731"
+        },
+        "669394": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "DH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "7",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "3",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "2",
+            "AVG": ".916",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".259"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "CHW",
+          "startingPosition": "DH",
+          "playerID": "669394"
+        },
+        "669424": {
+          "gameID": "20230526_CHW@DET",
+          "Pitching": {
+            "BB": "1",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "0",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "8",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "1",
+            "R": "0",
+            "pitchingOrder": "4",
+            "ERA": "5.31",
+            "InningsPitched": "1.0",
+            "Batters Faced": "4",
+            "SO": "0",
+            "Pitches": "15"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "CHW",
+          "playerID": "669424"
+        },
+        "669438": {
+          "gameID": "20230526_CHW@DET",
+          "Pitching": {
+            "BB": "1",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "2",
+            "Inherited Runners": "0",
+            "H": "4",
+            "HR": "1",
+            "ER": "3",
+            "Strikes": "21",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "0",
+            "R": "3",
+            "pitchingOrder": "2",
+            "ERA": "5.16",
+            "InningsPitched": "2.0",
+            "Batters Faced": "10",
+            "SO": "0",
+            "Pitches": "31"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "DET",
+          "playerID": "669438"
+        },
+        "670097": {
+          "gameID": "20230526_CHW@DET",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "H": "3",
+            "HR": "0",
+            "ER": "1",
+            "Strikes": "9",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "1",
+            "pitchingOrder": "4",
+            "ERA": "9.00",
+            "InningsPitched": "1.0",
+            "Batters Faced": "6",
+            "SO": "0",
+            "Pitches": "14"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "DET",
+          "playerID": "670097"
+        },
+        "673357": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "3",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".857",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".263"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "CHW",
+          "startingPosition": "CF",
+          "playerID": "673357"
+        },
+        "679529": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "1B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "3",
+            "battingOrder": "4",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".674",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "1",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".238"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "DET",
+          "startingPosition": "1B",
+          "playerID": "679529"
+        },
+        "682985": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "2",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "GIDP": "1",
+            "3B": "0",
+            "2B": "1",
+            "R": "0",
+            "AVG": ".796",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".295"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "DET",
+          "startingPosition": "CF",
+          "playerID": "682985"
+        },
+        "683734": {
+          "gameID": "20230526_CHW@DET",
+          "allPositionsPlayed": "1B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "5",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "6",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "2",
+            "AVG": ".729",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "3",
+            "SO": "1",
+            "LOB": ".237"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "CHW",
+          "startingPosition": "1B",
+          "playerID": "683734"
+        }
+      },
+      "decisions": [
+        {
+          "decision": "W",
+          "playerID": "458681",
+          "team": "CHW"
+        },
+        {
+          "decision": "L",
+          "playerID": "666214",
+          "team": "DET"
+        }
+      ],
+      "gameStatus": "Completed",
+      "lastUpdated": 2023060110281625,
+      "Attendance": "21,701",
+      "teamStats": {
+        "away": {
+          "Pitching": {
+            "Groundouts": "12",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "5",
+            "Inherited Runners": "0",
+            "Batters Faced": "38",
+            "Pitches": "145",
+            "Strikes": "83",
+            "Inherited Runners Scored": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "Fielding": {
+            "E": "1",
+            "Pickoffs": "0",
+            "Passed Ball": "0"
+          },
+          "Hitting": {
+            "BB": "3",
+            "2B": "2",
+            "R": "12",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "H": "17",
+            "RBI": "12",
+            "IBB": "0",
+            "TB": "28",
+            "3B": "3",
+            "GIDP": "0"
+          }
+        },
+        "home": {
+          "Pitching": {
+            "Groundouts": "5",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "11",
+            "Inherited Runners": "0",
+            "Batters Faced": "47",
+            "Pitches": "162",
+            "Strikes": "108",
+            "Inherited Runners Scored": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "Fielding": {
+            "E": "1",
+            "Pickoffs": "0",
+            "Passed Ball": "0"
+          },
+          "Hitting": {
+            "BB": "7",
+            "2B": "1",
+            "R": "3",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "1",
+            "H": "3",
+            "RBI": "2",
+            "IBB": "0",
+            "TB": "4",
+            "3B": "0",
+            "GIDP": "2"
+          }
+        }
+      },
+      "gameDate": "20230526",
+      "Venue": "Comerica Park",
+      "awayResult": "W",
+      "currentCount": "",
+      "homeResult": "L",
+      "away": "CHW",
+      "Weather": "71 degrees, Clear",
+      "lineScore": {
+        "away": {
+          "H": "17",
+          "R": "12",
+          "team": "CHW",
+          "scoresByInning": {
+            "1": "3",
+            "2": "1",
+            "3": "0",
+            "4": "1",
+            "5": "3",
+            "6": "0",
+            "7": "0",
+            "8": "3",
+            "9": "1"
+          },
+          "E": "1"
+        },
+        "home": {
+          "H": "3",
+          "R": "3",
+          "team": "DET",
+          "scoresByInning": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "2",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "1"
+        }
+      },
+      "currentOuts": "",
+      "FirstPitch": "6:41 PM",
+      "currentInning": "Final",
+      "gameID": "20230526_CHW@DET",
+      "Wind": "9 mph, L To R",
+      "home": "DET"
+    }
+  }

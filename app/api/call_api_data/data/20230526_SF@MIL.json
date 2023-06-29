@@ -1,0 +1,1483 @@
+{
+    "statusCode": 200,
+    "body": {
+      "GameLength": "2:42",
+      "Umpires": "HP: Jeremie Rehak. 1B: Chad Fairchild. 2B: Nic Lentz. 3B: Charlie Ramos.",
+      "playerStats": {
+        "571745": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "5",
+            "H": "3",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "7",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "2",
+            "AVG": ".600",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "4",
+            "SO": "1",
+            "LOB": ".215"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SF",
+          "startingPosition": "LF",
+          "playerID": "571745"
+        },
+        "573131": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "DH-1B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "1",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".720",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".275"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIL",
+          "startingPosition": "DH",
+          "playerID": "573131"
+        },
+        "573262": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "CF-RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "6",
+            "H": "3",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "4",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "2",
+            "AVG": ".767",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".264"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SF",
+          "startingPosition": "CF",
+          "playerID": "573262"
+        },
+        "592885": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "2",
+            "battingOrder": "4",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "GIDP": "1",
+            "3B": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".751",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".257"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIL",
+          "startingPosition": "LF",
+          "playerID": "592885"
+        },
+        "605119": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "6",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".759",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".238"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIL",
+          "startingPosition": "3B",
+          "playerID": "605119"
+        },
+        "605204": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "1",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "6",
+            "battingOrder": "3",
+            "H": "3",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "8",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "2",
+            "R": "3",
+            "AVG": ".850",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "3",
+            "SO": "0",
+            "LOB": ".278"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SF",
+          "startingPosition": "3B",
+          "playerID": "605204"
+        },
+        "608385": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "PH-LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "note": "Grounded out for Yelich in the 6th.",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "2",
+            "battingOrder": "4",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".565",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".212"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "MIL",
+          "playerID": "608385"
+        },
+        "621438": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "8",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".505",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".194"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIL",
+          "startingPosition": "RF",
+          "playerID": "621438"
+        },
+        "622072": {
+          "gameID": "20230526_SF@MIL",
+          "Pitching": {
+            "BB": "5",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "W",
+            "Flyouts": "2",
+            "Inherited Runners": "0",
+            "H": "3",
+            "HR": "0",
+            "ER": "1",
+            "Strikes": "55",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "6",
+            "R": "1",
+            "pitchingOrder": "1",
+            "ERA": "3.51",
+            "InningsPitched": "5.2",
+            "Batters Faced": "24",
+            "SO": "5",
+            "Pitches": "93"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SF",
+          "playerID": "622072"
+        },
+        "624424": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "4",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "3",
+            "AVG": ".810",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "0",
+            "LOB": ".241"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SF",
+          "startingPosition": "RF",
+          "playerID": "624424"
+        },
+        "642547": {
+          "gameID": "20230526_SF@MIL",
+          "Pitching": {
+            "BB": "1",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "L",
+            "Flyouts": "3",
+            "Inherited Runners": "0",
+            "H": "8",
+            "HR": "2",
+            "ER": "4",
+            "Strikes": "49",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "10",
+            "pitchingOrder": "1",
+            "ERA": "4.64",
+            "InningsPitched": "2.1",
+            "Batters Faced": "18",
+            "SO": "4",
+            "Pitches": "78"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "1",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIL",
+          "playerID": "642547"
+        },
+        "642715": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "0",
+            "battingOrder": "3",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".676",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".205"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIL",
+          "startingPosition": "SS",
+          "playerID": "642715"
+        },
+        "661388": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "2",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".724",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".243"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIL",
+          "startingPosition": "C",
+          "playerID": "661388"
+        },
+        "663629": {
+          "gameID": "20230526_SF@MIL",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "1",
+            "decision": "",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "9",
+            "HR": "1",
+            "ER": "5",
+            "Strikes": "46",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "5",
+            "pitchingOrder": "3",
+            "ERA": "15.00",
+            "InningsPitched": "3.0",
+            "Batters Faced": "18",
+            "SO": "5",
+            "Pitches": "69"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "MIL",
+          "playerID": "663629"
+        },
+        "663941": {
+          "gameID": "20230526_SF@MIL",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "S",
+            "Flyouts": "3",
+            "Inherited Runners": "2",
+            "H": "1",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "26",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "4",
+            "R": "0",
+            "pitchingOrder": "2",
+            "ERA": "4.63",
+            "InningsPitched": "3.1",
+            "Batters Faced": "11",
+            "SO": "2",
+            "Pitches": "33"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "SF",
+          "playerID": "663941"
+        },
+        "664774": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "1B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "6",
+            "battingOrder": "1",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".865",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "5",
+            "LOB": ".265"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SF",
+          "startingPosition": "1B",
+          "playerID": "664774"
+        },
+        "665625": {
+          "gameID": "20230526_SF@MIL",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "H": "2",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "24",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "3",
+            "R": "0",
+            "pitchingOrder": "2",
+            "ERA": "3.24",
+            "InningsPitched": "2.2",
+            "Batters Faced": "10",
+            "SO": "4",
+            "Pitches": "37"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "MIL",
+          "playerID": "665625"
+        },
+        "666165": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "DH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "6",
+            "battingOrder": "2",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".757",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "4",
+            "LOB": ".252"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SF",
+          "startingPosition": "DH",
+          "playerID": "666165"
+        },
+        "668930": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "3",
+            "battingOrder": "3",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".592",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".223"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "MIL",
+          "playerID": "668930"
+        },
+        "669369": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "2",
+            "battingOrder": "4",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".537",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".194"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "SF",
+          "playerID": "669369"
+        },
+        "669477": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "7",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".850",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "1",
+            "LOB": ".343"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SF",
+          "startingPosition": "SS",
+          "playerID": "669477"
+        },
+        "670712": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "1B-P",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "0",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "8",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "0",
+            "pitchingOrder": "4",
+            "ERA": "3.86",
+            "InningsPitched": "1.0",
+            "Batters Faced": "3",
+            "SO": "0",
+            "Pitches": "10"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "7",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "GIDP": "1",
+            "3B": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".710",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".227"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIL",
+          "startingPosition": "1B",
+          "playerID": "670712"
+        },
+        "672275": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "8",
+            "H": "4",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "5",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "1",
+            "AVG": ".982",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "3",
+            "SO": "0",
+            "LOB": ".364"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SF",
+          "startingPosition": "C",
+          "playerID": "672275"
+        },
+        "680911": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "1",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "5",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".864",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".324"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIL",
+          "startingPosition": "2B",
+          "playerID": "680911"
+        },
+        "686894": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "3",
+            "battingOrder": "9",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".603",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".193"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIL",
+          "startingPosition": "CF",
+          "playerID": "686894"
+        },
+        "689172": {
+          "gameID": "20230526_SF@MIL",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "1",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "9",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "6",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "2",
+            "AVG": ".545",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "3",
+            "SO": "2",
+            "LOB": ".194"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "SF",
+          "startingPosition": "2B",
+          "playerID": "689172"
+        }
+      },
+      "decisions": [
+        {
+          "decision": "W",
+          "playerID": "622072",
+          "team": "SF"
+        },
+        {
+          "decision": "S",
+          "playerID": "663941",
+          "team": "SF"
+        },
+        {
+          "decision": "L",
+          "playerID": "642547",
+          "team": "MIL"
+        }
+      ],
+      "gameStatus": "Completed",
+      "lastUpdated": 2023060110280956,
+      "Attendance": "30,347",
+      "teamStats": {
+        "away": {
+          "Pitching": {
+            "Groundouts": "10",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "5",
+            "Inherited Runners": "2",
+            "Batters Faced": "35",
+            "Pitches": "126",
+            "Strikes": "81",
+            "Inherited Runners Scored": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "Fielding": {
+            "E": "2",
+            "Pickoffs": "0",
+            "Passed Ball": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "2B": "6",
+            "R": "15",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "H": "19",
+            "RBI": "15",
+            "IBB": "0",
+            "TB": "34",
+            "3B": "0",
+            "GIDP": "0"
+          }
+        },
+        "home": {
+          "Pitching": {
+            "Groundouts": "9",
+            "Balk": "0",
+            "Wild Pitch": "1",
+            "Flyouts": "5",
+            "Inherited Runners": "0",
+            "Batters Faced": "49",
+            "Pitches": "194",
+            "Strikes": "127",
+            "Inherited Runners Scored": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "Fielding": {
+            "E": "2",
+            "Pickoffs": "0",
+            "Passed Ball": "0"
+          },
+          "Hitting": {
+            "BB": "5",
+            "2B": "0",
+            "R": "1",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "H": "4",
+            "RBI": "0",
+            "IBB": "0",
+            "TB": "4",
+            "3B": "0",
+            "GIDP": "2"
+          }
+        }
+      },
+      "gameDate": "20230526",
+      "Venue": "American Family Field",
+      "awayResult": "W",
+      "currentCount": "",
+      "homeResult": "L",
+      "away": "SF",
+      "Weather": "67 degrees, Roof Closed",
+      "lineScore": {
+        "away": {
+          "H": "19",
+          "R": "15",
+          "team": "SF",
+          "scoresByInning": {
+            "1": "0",
+            "2": "3",
+            "3": "7",
+            "4": "0",
+            "5": "0",
+            "6": "2",
+            "7": "2",
+            "8": "1",
+            "9": "0"
+          },
+          "E": "2"
+        },
+        "home": {
+          "H": "4",
+          "R": "1",
+          "team": "MIL",
+          "scoresByInning": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "2"
+        }
+      },
+      "currentOuts": "",
+      "FirstPitch": "7:10 PM",
+      "currentInning": "Final",
+      "gameID": "20230526_SF@MIL",
+      "Wind": "0 mph, None",
+      "home": "MIL"
+    }
+  }

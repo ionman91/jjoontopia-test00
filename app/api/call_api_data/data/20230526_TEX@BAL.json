@@ -1,0 +1,1668 @@
+{
+    "statusCode": 200,
+    "body": {
+      "GameLength": "2:36",
+      "Umpires": "HP: Jordan Baker. 1B: Brennan Miller. 2B: Mark Carlson. 3B: Tripp Gibson.",
+      "playerStats": {
+        "506702": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "9",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "GIDP": "1",
+            "3B": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".400",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".147"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "TEX",
+          "startingPosition": "C",
+          "playerID": "506702"
+        },
+        "543257": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "DH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "2",
+            "battingOrder": "7",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "4",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "2",
+            "AVG": ".688",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "1",
+            "RBI": "2",
+            "SO": "0",
+            "LOB": ".239"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "TEX",
+          "startingPosition": "DH",
+          "playerID": "543257"
+        },
+        "543510": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "0",
+            "battingOrder": "2",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".509",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".182"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "BAL",
+          "playerID": "543510"
+        },
+        "543543": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "PH-DH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "note": "Doubled for Grossman in the 9th.",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "1",
+            "battingOrder": "7",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "0",
+            "AVG": ".637",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "0",
+            "LOB": ".208"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "TEX",
+          "playerID": "543543"
+        },
+        "543760": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "1",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".859",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".296"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "TEX",
+          "startingPosition": "2B",
+          "playerID": "543760"
+        },
+        "592351": {
+          "gameID": "20230526_TEX@BAL",
+          "Pitching": {
+            "BB": "1",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "W",
+            "Flyouts": "3",
+            "Inherited Runners": "0",
+            "H": "4",
+            "HR": "1",
+            "ER": "1",
+            "Strikes": "61",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "5",
+            "R": "1",
+            "pitchingOrder": "1",
+            "ERA": "2.81",
+            "InningsPitched": "7.0",
+            "Batters Faced": "25",
+            "SO": "8",
+            "Pitches": "92"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "TEX",
+          "playerID": "592351"
+        },
+        "602104": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "1",
+            "battingOrder": "5",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".750",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".276"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "BAL",
+          "playerID": "602104"
+        },
+        "608369": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "4",
+            "battingOrder": "2",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "4",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": "1.031",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "4",
+            "SO": "1",
+            "LOB": ".343"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "TEX",
+          "startingPosition": "SS",
+          "playerID": "608369"
+        },
+        "608723": {
+          "gameID": "20230526_TEX@BAL",
+          "Pitching": {
+            "BB": "2",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "2",
+            "HR": "0",
+            "ER": "1",
+            "Strikes": "42",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "6",
+            "R": "1",
+            "pitchingOrder": "2",
+            "ERA": "4.10",
+            "InningsPitched": "3.2",
+            "Batters Faced": "15",
+            "SO": "1",
+            "Pitches": "62"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "BAL",
+          "playerID": "608723"
+        },
+        "622761": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "1",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "3",
+            "battingOrder": "9",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".674",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "3",
+            "LOB": ".227"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "BAL",
+          "startingPosition": "SS",
+          "playerID": "622761"
+        },
+        "623993": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "3",
+            "battingOrder": "3",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "GIDP": "1",
+            "3B": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".809",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".263"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "BAL",
+          "startingPosition": "RF",
+          "playerID": "623993"
+        },
+        "624428": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "3",
+            "battingOrder": "5",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".746",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".248"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "BAL",
+          "startingPosition": "2B",
+          "playerID": "624428"
+        },
+        "642546": {
+          "gameID": "20230526_TEX@BAL",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "0",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "8",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "1",
+            "R": "0",
+            "pitchingOrder": "3",
+            "ERA": "6.27",
+            "InningsPitched": "1.0",
+            "Batters Faced": "3",
+            "SO": "1",
+            "Pitches": "14"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "TEX",
+          "playerID": "642546"
+        },
+        "656775": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "1",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".847",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".269"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "BAL",
+          "startingPosition": "CF",
+          "playerID": "656775"
+        },
+        "656811": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "DH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "8",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "1",
+            "AVG": ".764",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "3",
+            "LOB": ".256"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "BAL",
+          "startingPosition": "DH",
+          "playerID": "656811"
+        },
+        "663624": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "1B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "4",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".731",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".239"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "BAL",
+          "startingPosition": "1B",
+          "playerID": "663624"
+        },
+        "663630": {
+          "gameID": "20230526_TEX@BAL",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "H": "4",
+            "HR": "0",
+            "ER": "2",
+            "Strikes": "11",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "2",
+            "pitchingOrder": "4",
+            "ERA": "18.00",
+            "InningsPitched": "1.0",
+            "Batters Faced": "6",
+            "SO": "0",
+            "Pitches": "18"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "BAL",
+          "playerID": "663630"
+        },
+        "663993": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "1B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "2",
+            "AB": "3",
+            "battingOrder": "3",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".825",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".286"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "TEX",
+          "startingPosition": "1B",
+          "playerID": "663993"
+        },
+        "665750": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "4",
+            "battingOrder": "8",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "5",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "2",
+            "AVG": ".809",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "3",
+            "SO": "0",
+            "LOB": ".310"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "TEX",
+          "startingPosition": "CF",
+          "playerID": "665750"
+        },
+        "666969": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "4",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "GIDP": "1",
+            "3B": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".829",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".247"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "TEX",
+          "startingPosition": "RF",
+          "playerID": "666969"
+        },
+        "667463": {
+          "gameID": "20230526_TEX@BAL",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "H": "4",
+            "HR": "0",
+            "ER": "1",
+            "Strikes": "16",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "1",
+            "R": "1",
+            "pitchingOrder": "2",
+            "ERA": "4.15",
+            "InningsPitched": "1.0",
+            "Batters Faced": "7",
+            "SO": "2",
+            "Pitches": "21"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "TEX",
+          "playerID": "667463"
+        },
+        "668939": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "3",
+            "battingOrder": "2",
+            "H": "3",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "6",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".843",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "0",
+            "LOB": ".274"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "BAL",
+          "startingPosition": "C",
+          "playerID": "668939"
+        },
+        "669352": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "0",
+            "battingOrder": "2",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".522",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".163"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "TEX",
+          "playerID": "669352"
+        },
+        "669701": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "LF-SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "1",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "6",
+            "H": "3",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "3",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "2",
+            "AVG": ".752",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "1",
+            "LOB": ".229"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "TEX",
+          "startingPosition": "LF",
+          "playerID": "669701"
+        },
+        "669720": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "6",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "3",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "0",
+            "AVG": ".843",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".311"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "BAL",
+          "startingPosition": "LF",
+          "playerID": "669720"
+        },
+        "672335": {
+          "gameID": "20230526_TEX@BAL",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "1",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "10",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "0",
+            "pitchingOrder": "3",
+            "ERA": "3.26",
+            "InningsPitched": "1.0",
+            "Batters Faced": "4",
+            "SO": "0",
+            "Pitches": "15"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "BAL",
+          "playerID": "672335"
+        },
+        "673962": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "5",
+            "H": "3",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "5",
+            "3B": "1",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "2",
+            "AVG": ".838",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "1",
+            "LOB": ".282"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "TEX",
+          "startingPosition": "3B",
+          "playerID": "673962"
+        },
+        "679631": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "1",
+            "battingOrder": "3",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".633",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "0",
+            "LOB": ".279"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "BAL",
+          "playerID": "679631"
+        },
+        "680570": {
+          "gameID": "20230526_TEX@BAL",
+          "Pitching": {
+            "BB": "3",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "L",
+            "Flyouts": "2",
+            "Inherited Runners": "0",
+            "H": "6",
+            "HR": "3",
+            "ER": "8",
+            "Strikes": "49",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "3",
+            "R": "9",
+            "pitchingOrder": "1",
+            "ERA": "7.35",
+            "InningsPitched": "3.1",
+            "Batters Faced": "20",
+            "SO": "6",
+            "Pitches": "83"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "BAL",
+          "playerID": "680570"
+        },
+        "683002": {
+          "gameID": "20230526_TEX@BAL",
+          "allPositionsPlayed": "3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "7",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".719",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".204"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "BAL",
+          "startingPosition": "3B",
+          "playerID": "683002"
+        }
+      },
+      "decisions": [
+        {
+          "decision": "W",
+          "playerID": "592351",
+          "team": "TEX"
+        },
+        {
+          "decision": "L",
+          "playerID": "680570",
+          "team": "BAL"
+        }
+      ],
+      "gameStatus": "Completed",
+      "lastUpdated": 2023060110280938,
+      "Attendance": "20,293",
+      "teamStats": {
+        "away": {
+          "Pitching": {
+            "Groundouts": "7",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "4",
+            "Inherited Runners": "0",
+            "Batters Faced": "35",
+            "Pitches": "127",
+            "Strikes": "85",
+            "Inherited Runners Scored": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "Fielding": {
+            "E": "1",
+            "Pickoffs": "0",
+            "Passed Ball": "0"
+          },
+          "Hitting": {
+            "BB": "5",
+            "2B": "1",
+            "R": "12",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "1",
+            "H": "13",
+            "RBI": "12",
+            "IBB": "0",
+            "TB": "25",
+            "3B": "1",
+            "GIDP": "2"
+          }
+        },
+        "home": {
+          "Pitching": {
+            "Groundouts": "13",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "4",
+            "Inherited Runners": "0",
+            "Batters Faced": "45",
+            "Pitches": "178",
+            "Strikes": "112",
+            "Inherited Runners Scored": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "Fielding": {
+            "E": "1",
+            "Pickoffs": "0",
+            "Passed Ball": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "2B": "2",
+            "R": "2",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "H": "8",
+            "RBI": "2",
+            "IBB": "0",
+            "TB": "13",
+            "3B": "0",
+            "GIDP": "1"
+          }
+        }
+      },
+      "gameDate": "20230526",
+      "Venue": "Oriole Park at Camden Yards",
+      "awayResult": "W",
+      "currentCount": "",
+      "homeResult": "L",
+      "away": "TEX",
+      "Weather": "73 degrees, Clear",
+      "lineScore": {
+        "away": {
+          "H": "13",
+          "R": "12",
+          "team": "TEX",
+          "scoresByInning": {
+            "1": "0",
+            "2": "2",
+            "3": "0",
+            "4": "8",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "2"
+          },
+          "E": "1"
+        },
+        "home": {
+          "H": "8",
+          "R": "2",
+          "team": "BAL",
+          "scoresByInning": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "1",
+            "9": "0"
+          },
+          "E": "1"
+        }
+      },
+      "currentOuts": "",
+      "FirstPitch": "7:06 PM",
+      "currentInning": "Final",
+      "gameID": "20230526_TEX@BAL",
+      "Wind": "7 mph, In From RF",
+      "home": "BAL"
+    }
+  }

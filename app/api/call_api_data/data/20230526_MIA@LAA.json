@@ -1,0 +1,1684 @@
+{
+    "statusCode": 200,
+    "body": {
+      "GameLength": "2:42",
+      "Umpires": "HP: Jeff Nelson. 1B: CB Bucknor. 2B: Chris Segal. 3B: Brian Walsh.",
+      "playerStats": {
+        "493329": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "DH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "6",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "GIDP": "1",
+            "3B": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".799",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".304"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIA",
+          "startingPosition": "DH",
+          "playerID": "493329"
+        },
+        "516416": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "4",
+            "battingOrder": "7",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".492",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "2",
+            "LOB": ".196"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIA",
+          "startingPosition": "3B",
+          "playerID": "516416"
+        },
+        "542932": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "1",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".653",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".268"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIA",
+          "startingPosition": "SS",
+          "playerID": "542932"
+        },
+        "545361": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "2",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "3",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "0",
+            "AVG": ".898",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "1",
+            "LOB": ".280"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "LAA",
+          "startingPosition": "CF",
+          "playerID": "545361"
+        },
+        "570482": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "3B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "6",
+            "H": "3",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "3",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".693",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".310"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "1",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "LAA",
+          "startingPosition": "3B",
+          "playerID": "570482"
+        },
+        "571670": {
+          "gameID": "20230526_MIA@LAA",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "H": "0",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "8",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "1",
+            "R": "0",
+            "pitchingOrder": "6",
+            "ERA": "3.52",
+            "InningsPitched": "1.0",
+            "Batters Faced": "3",
+            "SO": "2",
+            "Pitches": "11"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "MIA",
+          "playerID": "571670"
+        },
+        "592273": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "1B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "5",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "4",
+            "GIDP": "1",
+            "3B": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".750",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "0",
+            "LOB": ".241"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "LAA",
+          "startingPosition": "1B",
+          "playerID": "592273"
+        },
+        "592669": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "4",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".772",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".256"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "LAA",
+          "startingPosition": "RF",
+          "playerID": "592669"
+        },
+        "595453": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "1",
+            "battingOrder": "8",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".723",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".240"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "LAA",
+          "startingPosition": "C",
+          "playerID": "595453"
+        },
+        "608638": {
+          "gameID": "20230526_MIA@LAA",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "0",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "8",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "0",
+            "pitchingOrder": "5",
+            "ERA": "3.12",
+            "InningsPitched": "1.0",
+            "Batters Faced": "3",
+            "SO": "0",
+            "Pitches": "12"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "MIA",
+          "playerID": "608638"
+        },
+        "621493": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "1",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".617",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "4",
+            "LOB": ".225"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "LAA",
+          "startingPosition": "LF",
+          "playerID": "621493"
+        },
+        "621563": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "PH-SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "note": "Walked for Berti in the 8th.",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "0",
+            "battingOrder": "1",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".527",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".163"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "MIA",
+          "playerID": "621563"
+        },
+        "624585": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "RF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "2",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "4",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".899",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "1",
+            "LOB": ".259"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIA",
+          "startingPosition": "RF",
+          "playerID": "624585"
+        },
+        "641505": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "CF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "4",
+            "battingOrder": "9",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": "1.805",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".636"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIA",
+          "startingPosition": "CF",
+          "playerID": "641505"
+        },
+        "642136": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "1",
+            "battingOrder": "8",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "2",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".783",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "1",
+            "LOB": ".288"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "LAA",
+          "playerID": "642136"
+        },
+        "643265": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "1B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "4",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "1",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "1",
+            "AVG": ".673",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "4",
+            "LOB": ".237"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIA",
+          "startingPosition": "1B",
+          "playerID": "643265"
+        },
+        "650333": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "4",
+            "battingOrder": "3",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".893",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "0",
+            "LOB": ".374"
+          },
+          "BaseRunning": {
+            "CS": "1",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIA",
+          "startingPosition": "2B",
+          "playerID": "650333"
+        },
+        "650559": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "LF",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "5",
+            "H": "4",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "1",
+            "TB": "7",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "3",
+            "AVG": ".817",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "2",
+            "SO": "1",
+            "LOB": ".305"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIA",
+          "startingPosition": "LF",
+          "playerID": "650559"
+        },
+        "650859": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "2B",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "7",
+            "H": "1",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "1",
+            "R": "0",
+            "AVG": ".581",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".206"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "LAA",
+          "startingPosition": "2B",
+          "playerID": "650859"
+        },
+        "656945": {
+          "gameID": "20230526_MIA@LAA",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "H",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "1",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "6",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "1",
+            "R": "0",
+            "pitchingOrder": "4",
+            "ERA": "3.80",
+            "InningsPitched": "1.0",
+            "Batters Faced": "4",
+            "SO": "1",
+            "Pitches": "11"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "MIA",
+          "playerID": "656945"
+        },
+        "657097": {
+          "gameID": "20230526_MIA@LAA",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "",
+            "Flyouts": "1",
+            "Inherited Runners": "3",
+            "H": "2",
+            "HR": "1",
+            "ER": "2",
+            "Strikes": "22",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "2",
+            "pitchingOrder": "2",
+            "ERA": "6.00",
+            "InningsPitched": "2.0",
+            "Batters Faced": "8",
+            "SO": "3",
+            "Pitches": "30"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "LAA",
+          "playerID": "657097"
+        },
+        "660271": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "DH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "3",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "GIDP": "1",
+            "3B": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".870",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".275"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "LAA",
+          "startingPosition": "DH",
+          "playerID": "660271"
+        },
+        "663743": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "C",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "5",
+            "battingOrder": "8",
+            "H": "2",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "2",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".548",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "1",
+            "SO": "1",
+            "LOB": ".223"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIA",
+          "startingPosition": "C",
+          "playerID": "663743"
+        },
+        "663773": {
+          "gameID": "20230526_MIA@LAA",
+          "Pitching": {
+            "BB": "0",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "H",
+            "Flyouts": "1",
+            "Inherited Runners": "0",
+            "H": "2",
+            "HR": "1",
+            "ER": "1",
+            "Strikes": "10",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "0",
+            "R": "1",
+            "pitchingOrder": "2",
+            "ERA": "4.08",
+            "InningsPitched": "0.2",
+            "Batters Faced": "4",
+            "SO": "0",
+            "Pitches": "14"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "MIA",
+          "playerID": "663773"
+        },
+        "665120": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "PH",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "note": "Walked for Wallach in the 6th.",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "1",
+            "AB": "0",
+            "battingOrder": "8",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "1",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".411",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "0",
+            "LOB": ".133"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "LAA",
+          "playerID": "665120"
+        },
+        "666200": {
+          "gameID": "20230526_MIA@LAA",
+          "Pitching": {
+            "BB": "1",
+            "Balk": "0",
+            "Wild Pitch": "1",
+            "decision": "W",
+            "Flyouts": "2",
+            "Inherited Runners": "0",
+            "H": "7",
+            "HR": "0",
+            "ER": "1",
+            "Strikes": "57",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "4",
+            "R": "1",
+            "pitchingOrder": "1",
+            "ERA": "3.67",
+            "InningsPitched": "5.0",
+            "Batters Faced": "21",
+            "SO": "7",
+            "Pitches": "91"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "MIA",
+          "playerID": "666200"
+        },
+        "672282": {
+          "gameID": "20230526_MIA@LAA",
+          "Pitching": {
+            "BB": "2",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "L",
+            "Flyouts": "6",
+            "Inherited Runners": "0",
+            "H": "10",
+            "HR": "1",
+            "ER": "3",
+            "Strikes": "61",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "2",
+            "R": "3",
+            "pitchingOrder": "1",
+            "ERA": "4.93",
+            "InningsPitched": "5.0",
+            "Batters Faced": "26",
+            "SO": "5",
+            "Pitches": "95"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "LAA",
+          "playerID": "672282"
+        },
+        "677053": {
+          "gameID": "20230526_MIA@LAA",
+          "Pitching": {
+            "BB": "1",
+            "Balk": "0",
+            "Wild Pitch": "0",
+            "decision": "H",
+            "Flyouts": "0",
+            "Inherited Runners": "1",
+            "H": "0",
+            "HR": "0",
+            "ER": "0",
+            "Strikes": "1",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "1",
+            "R": "0",
+            "pitchingOrder": "3",
+            "ERA": "3.04",
+            "InningsPitched": "0.1",
+            "Batters Faced": "2",
+            "SO": "0",
+            "Pitches": "6"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "MIA",
+          "playerID": "677053"
+        },
+        "687263": {
+          "gameID": "20230526_MIA@LAA",
+          "allPositionsPlayed": "SS",
+          "Pitching": {
+            "Balk": "0",
+            "Groundouts": "0",
+            "Wild Pitch": "0",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "Batters Faced": "0",
+            "Pitches": "0",
+            "Strikes": "0",
+            "Inherited Runners Scored": "0"
+          },
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "BB": "0",
+            "AB": "4",
+            "battingOrder": "9",
+            "H": "0",
+            "IBB": "0",
+            "substitutionOrder": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0",
+            "2B": "0",
+            "R": "0",
+            "AVG": ".722",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "RBI": "0",
+            "SO": "2",
+            "LOB": ".258"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "True",
+          "team": "LAA",
+          "startingPosition": "SS",
+          "playerID": "687263"
+        },
+        "696147": {
+          "gameID": "20230526_MIA@LAA",
+          "Pitching": {
+            "BB": "2",
+            "Balk": "0",
+            "Wild Pitch": "1",
+            "decision": "",
+            "Flyouts": "0",
+            "Inherited Runners": "0",
+            "H": "4",
+            "HR": "0",
+            "ER": "1",
+            "Strikes": "26",
+            "Inherited Runners Scored": "0",
+            "Groundouts": "1",
+            "R": "1",
+            "pitchingOrder": "3",
+            "ERA": "4.50",
+            "InningsPitched": "2.0",
+            "Batters Faced": "11",
+            "SO": "4",
+            "Pitches": "47"
+          },
+          "allPositionsPlayed": "P",
+          "Fielding": {
+            "Passed Ball": "0",
+            "Outfield assists": "0",
+            "E": "0",
+            "Pickoffs": "0"
+          },
+          "Hitting": {
+            "2B": "0",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "IBB": "0",
+            "HR": "0",
+            "TB": "0",
+            "3B": "0",
+            "GIDP": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "0",
+            "PO": "0"
+          },
+          "started": "False",
+          "team": "LAA",
+          "playerID": "696147"
+        }
+      },
+      "decisions": [
+        {
+          "decision": "W",
+          "playerID": "666200",
+          "team": "MIA"
+        },
+        {
+          "decision": "HLD",
+          "playerID": "663773",
+          "team": "MIA"
+        },
+        {
+          "decision": "HLD",
+          "playerID": "677053",
+          "team": "MIA"
+        },
+        {
+          "decision": "HLD",
+          "playerID": "656945",
+          "team": "MIA"
+        },
+        {
+          "decision": "L",
+          "playerID": "672282",
+          "team": "LAA"
+        }
+      ],
+      "gameStatus": "Completed",
+      "lastUpdated": 2023060110281102,
+      "Attendance": "32,130",
+      "teamStats": {
+        "away": {
+          "Pitching": {
+            "Groundouts": "9",
+            "Balk": "0",
+            "Wild Pitch": "1",
+            "Flyouts": "5",
+            "Inherited Runners": "1",
+            "Batters Faced": "37",
+            "Pitches": "145",
+            "Strikes": "90",
+            "Inherited Runners Scored": "0"
+          },
+          "BaseRunning": {
+            "CS": "1",
+            "SB": "0",
+            "PO": "0"
+          },
+          "Fielding": {
+            "E": "0",
+            "Pickoffs": "0",
+            "Passed Ball": "0"
+          },
+          "Hitting": {
+            "BB": "4",
+            "2B": "0",
+            "R": "6",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "H": "16",
+            "RBI": "6",
+            "IBB": "0",
+            "TB": "22",
+            "3B": "0",
+            "GIDP": "1"
+          }
+        },
+        "home": {
+          "Pitching": {
+            "Groundouts": "5",
+            "Balk": "0",
+            "Wild Pitch": "1",
+            "Flyouts": "7",
+            "Inherited Runners": "3",
+            "Batters Faced": "45",
+            "Pitches": "172",
+            "Strikes": "109",
+            "Inherited Runners Scored": "0"
+          },
+          "BaseRunning": {
+            "CS": "0",
+            "SB": "1",
+            "PO": "0"
+          },
+          "Fielding": {
+            "E": "0",
+            "Pickoffs": "0",
+            "Passed Ball": "0"
+          },
+          "Hitting": {
+            "BB": "2",
+            "2B": "2",
+            "R": "2",
+            "SF": "0",
+            "SAC": "0",
+            "HBP": "0",
+            "H": "10",
+            "RBI": "2",
+            "IBB": "0",
+            "TB": "15",
+            "3B": "0",
+            "GIDP": "2"
+          }
+        }
+      },
+      "gameDate": "20230526",
+      "Venue": "Angel Stadium",
+      "awayResult": "W",
+      "currentCount": "",
+      "homeResult": "L",
+      "away": "MIA",
+      "Weather": "64 degrees, Cloudy",
+      "lineScore": {
+        "away": {
+          "H": "16",
+          "R": "6",
+          "team": "MIA",
+          "scoresByInning": {
+            "1": "0",
+            "2": "1",
+            "3": "1",
+            "4": "0",
+            "5": "0",
+            "6": "1",
+            "7": "2",
+            "8": "1",
+            "9": "0"
+          },
+          "E": "0"
+        },
+        "home": {
+          "H": "10",
+          "R": "2",
+          "team": "LAA",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "1",
+            "6": "1",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "0"
+        }
+      },
+      "currentOuts": "",
+      "FirstPitch": "6:41 PM",
+      "currentInning": "Final",
+      "gameID": "20230526_MIA@LAA",
+      "Wind": "9 mph, Out To CF",
+      "home": "LAA"
+    }
+  }
