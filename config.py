@@ -88,7 +88,7 @@ class DevSettings(Settings):
 
 
 class ProdSettings(Settings):
-    DB_URL = f"mysql+pymysql://{os.getenv('DB_URL')}/fltest?charset=utf8mb4"
+    DB_URL = f"mysql+pymysql://{os.getenv('DB_INFO')}@{os.getenv('DB_INFO2')}/fltest?charset=utf8mb4"
     DB_POOL_SIZE = 5
     DB_MAX_OVERFLOW = 10
     ORIGINS = ["test002.ap-northeast-2.elasticbeanstalk.com"]
