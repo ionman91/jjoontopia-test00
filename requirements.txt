@@ -1,8 +1,10 @@
-fastapi==0.98.0
-uvicorn==0.22.0
-gunicorn==20.1.0
 awsebcli==3.20.7
+bcrypt==4.0.1
+fastapi==0.98.0
+gunicorn==20.1.0
+uvicorn==0.22.0
 PyMySQL==1.0.3
-sqlalchemy==2.0.9
-# 내가 새롭게 추가한 pip
+PyJWT==2.7.0
 requests==2.31.0
+sqlalchemy==2.0.9
+starlette==0.27.0
